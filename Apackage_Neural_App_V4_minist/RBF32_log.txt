@@ -1,0 +1,579 @@
+2020-05-03 14:37:11,359 - RBF - INFO - now initialize the net with para:
+2020-05-03 14:37:11,360 - RBF - INFO - CKPT
+2020-05-03 14:37:11,360 - RBF - INFO - ckpt
+2020-05-03 14:37:11,360 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,360 - RBF - INFO - BATCHSIZE
+2020-05-03 14:37:11,360 - RBF - INFO - 512
+2020-05-03 14:37:11,360 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,360 - RBF - INFO - MAX_ITER
+2020-05-03 14:37:11,360 - RBF - INFO - 5000
+2020-05-03 14:37:11,361 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,361 - RBF - INFO - STEP_EACH_ITER
+2020-05-03 14:37:11,361 - RBF - INFO - 500
+2020-05-03 14:37:11,361 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,361 - RBF - INFO - STEP_SHOW_train
+2020-05-03 14:37:11,361 - RBF - INFO - 100
+2020-05-03 14:37:11,361 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,361 - RBF - INFO - STEP_SHOW_test
+2020-05-03 14:37:11,361 - RBF - INFO - 200
+2020-05-03 14:37:11,361 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,361 - RBF - INFO - EPOCH_SAVE
+2020-05-03 14:37:11,362 - RBF - INFO - 10
+2020-05-03 14:37:11,362 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,362 - RBF - INFO - LEARNING_RATE
+2020-05-03 14:37:11,362 - RBF - INFO - 0.0001
+2020-05-03 14:37:11,362 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,362 - RBF - INFO - bound_weight
+2020-05-03 14:37:11,362 - RBF - INFO - 1
+2020-05-03 14:37:11,362 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,362 - RBF - INFO - step_unbound
+2020-05-03 14:37:11,362 - RBF - INFO - 5
+2020-05-03 14:37:11,363 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,363 - RBF - INFO - decay
+2020-05-03 14:37:11,363 - RBF - INFO - False
+2020-05-03 14:37:11,363 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,363 - RBF - INFO - test_line
+2020-05-03 14:37:11,363 - RBF - INFO - False
+2020-05-03 14:37:11,363 - RBF - INFO - -----------------------------
+2020-05-03 14:37:11,363 - RBF - INFO - is_plot
+2020-05-03 14:37:11,363 - RBF - INFO - True
+2020-05-03 14:37:11,363 - RBF - INFO - -----------------------------
+2020-05-03 14:37:13,184 - RBF - INFO - openning sess
+2020-05-03 14:37:13,813 - RBF - INFO - building net
+2020-05-03 14:37:16,478 - RBF - INFO - building opt
+2020-05-03 14:37:16,930 - RBF - INFO - net initializing
+2020-05-03 14:37:18,430 - RBF - INFO - train epoch 0 of total 5000 epoches
+2020-05-03 14:37:19,821 - RBF - INFO - loss 2.339105428074645, in epoch 0, in step 99, in global step 0.109375, acc is 0.109375,                    taks 1.3919999599456787 seconds
+2020-05-03 14:37:20,507 - RBF - INFO - loss 2.337632210459899, in epoch 0, in step 199, in global step 0.08984375, acc is 0.08984375,                    taks 0.685999870300293 seconds
+2020-05-03 14:37:20,586 - RBF - INFO - test->loss 2.338333625218853, in epoch 0, in step 199, in global step 200,                     acc is 0.087890625, taks 0.07800006866455078 seconds
+2020-05-03 14:37:21,287 - RBF - INFO - loss 2.354151954753388, in epoch 0, in step 299, in global step 0.0859375, acc is 0.0859375,                    taks 0.7008001804351807 seconds
+2020-05-03 14:37:21,978 - RBF - INFO - loss 2.340942646244634, in epoch 0, in step 399, in global step 0.087890625, acc is 0.087890625,                    taks 0.6909999847412109 seconds
+2020-05-03 14:37:21,984 - RBF - INFO - test->loss 2.3348532023587194, in epoch 0, in step 399, in global step 400,                     acc is 0.087890625, taks 0.004999876022338867 seconds
+2020-05-03 14:37:22,683 - RBF - INFO - loss 2.321548533790915, in epoch 0, in step 499, in global step 0.109375, acc is 0.109375,                    taks 0.6984000205993652 seconds
+2020-05-03 14:37:22,684 - RBF - INFO - train epoch 1 of total 5000 epoches
+2020-05-03 14:37:23,376 - RBF - INFO - loss 2.3419815875691237, in epoch 1, in step 99, in global step 0.07421875, acc is 0.07421875,                    taks 0.693000078201294 seconds
+2020-05-03 14:37:24,013 - RBF - INFO - loss 2.336544823224794, in epoch 1, in step 199, in global step 0.087890625, acc is 0.087890625,                    taks 0.636199951171875 seconds
+2020-05-03 14:37:24,019 - RBF - INFO - test->loss 2.330150863263231, in epoch 1, in step 199, in global step 700,                     acc is 0.087890625, taks 0.005000114440917969 seconds
+2020-05-03 14:37:24,725 - RBF - INFO - loss 2.3277365107505172, in epoch 1, in step 299, in global step 0.10546875, acc is 0.10546875,                    taks 0.7058000564575195 seconds
+2020-05-03 14:37:25,410 - RBF - INFO - loss 2.34249195337779, in epoch 1, in step 399, in global step 0.091796875, acc is 0.091796875,                    taks 0.684999942779541 seconds
+2020-05-03 14:37:25,418 - RBF - INFO - test->loss 2.3273445972416136, in epoch 1, in step 399, in global step 900,                     acc is 0.087890625, taks 0.0069997310638427734 seconds
+2020-05-03 14:37:26,106 - RBF - INFO - loss 2.329497708775183, in epoch 1, in step 499, in global step 0.10546875, acc is 0.10546875,                    taks 0.6869997978210449 seconds
+2020-05-03 14:37:26,106 - RBF - INFO - train epoch 2 of total 5000 epoches
+2020-05-03 14:37:26,806 - RBF - INFO - loss 2.3109102794436773, in epoch 2, in step 99, in global step 0.13671875, acc is 0.13671875,                    taks 0.6994001865386963 seconds
+2020-05-03 14:37:27,497 - RBF - INFO - loss 2.318382763690625, in epoch 2, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 0.6912000179290771 seconds
+2020-05-03 14:37:27,503 - RBF - INFO - test->loss 2.3236383495863517, in epoch 2, in step 199, in global step 1200,                     acc is 0.087890625, taks 0.00599980354309082 seconds
+2020-05-03 14:37:28,202 - RBF - INFO - loss 2.312884976408842, in epoch 2, in step 299, in global step 0.09375, acc is 0.09375,                    taks 0.6976001262664795 seconds
+2020-05-03 14:37:28,855 - RBF - INFO - loss 2.32702797667935, in epoch 2, in step 399, in global step 0.091796875, acc is 0.091796875,                    taks 0.6533999443054199 seconds
+2020-05-03 14:37:28,930 - RBF - INFO - test->loss 2.3214268017557886, in epoch 2, in step 399, in global step 1400,                     acc is 0.087890625, taks 0.006000041961669922 seconds
+2020-05-03 14:37:29,651 - RBF - INFO - loss 2.3144957292754564, in epoch 2, in step 499, in global step 0.091796875, acc is 0.091796875,                    taks 0.7209999561309814 seconds
+2020-05-03 14:37:29,651 - RBF - INFO - train epoch 3 of total 5000 epoches
+2020-05-03 14:37:30,360 - RBF - INFO - loss 2.318044703793937, in epoch 3, in step 99, in global step 0.095703125, acc is 0.095703125,                    taks 0.7090001106262207 seconds
+2020-05-03 14:37:31,053 - RBF - INFO - loss 2.324588385028711, in epoch 3, in step 199, in global step 0.091796875, acc is 0.091796875,                    taks 0.6932001113891602 seconds
+2020-05-03 14:37:31,059 - RBF - INFO - test->loss 2.3184657758050484, in epoch 3, in step 199, in global step 1700,                     acc is 0.087890625, taks 0.00599980354309082 seconds
+2020-05-03 14:37:31,756 - RBF - INFO - loss 2.3177031117514924, in epoch 3, in step 299, in global step 0.115234375, acc is 0.115234375,                    taks 0.69700026512146 seconds
+2020-05-03 14:37:32,443 - RBF - INFO - loss 2.3099183463392396, in epoch 3, in step 399, in global step 0.099609375, acc is 0.099609375,                    taks 0.6869997978210449 seconds
+2020-05-03 14:37:32,449 - RBF - INFO - test->loss 2.3167108597519412, in epoch 3, in step 399, in global step 1900,                     acc is 0.087890625, taks 0.004999876022338867 seconds
+2020-05-03 14:37:33,146 - RBF - INFO - loss 2.328037940936314, in epoch 3, in step 499, in global step 0.08203125, acc is 0.08203125,                    taks 0.6953999996185303 seconds
+2020-05-03 14:37:33,147 - RBF - INFO - train epoch 4 of total 5000 epoches
+2020-05-03 14:37:33,803 - RBF - INFO - loss 2.308137377284741, in epoch 4, in step 99, in global step 0.091796875, acc is 0.091796875,                    taks 0.6578001976013184 seconds
+2020-05-03 14:37:34,484 - RBF - INFO - loss 2.313651027502037, in epoch 4, in step 199, in global step 0.1015625, acc is 0.1015625,                    taks 0.6801998615264893 seconds
+2020-05-03 14:37:34,490 - RBF - INFO - test->loss 2.3143524025002797, in epoch 4, in step 199, in global step 2200,                     acc is 0.087890625, taks 0.00599980354309082 seconds
+2020-05-03 14:37:35,186 - RBF - INFO - loss 2.3020067736347936, in epoch 4, in step 299, in global step 0.107421875, acc is 0.107421875,                    taks 0.6964001655578613 seconds
+2020-05-03 14:37:35,877 - RBF - INFO - loss 2.2936860453256536, in epoch 4, in step 399, in global step 0.10546875, acc is 0.10546875,                    taks 0.6902000904083252 seconds
+2020-05-03 14:37:35,882 - RBF - INFO - test->loss 2.312998877145642, in epoch 4, in step 399, in global step 2400,                     acc is 0.087890625, taks 0.004999876022338867 seconds
+2020-05-03 14:37:36,575 - RBF - INFO - loss 2.3079230725454005, in epoch 4, in step 499, in global step 0.09765625, acc is 0.09765625,                    taks 0.6926002502441406 seconds
+2020-05-03 14:37:36,575 - RBF - INFO - train epoch 5 of total 5000 epoches
+2020-05-03 14:37:37,274 - RBF - INFO - loss 2.3092798400279304, in epoch 5, in step 99, in global step 0.091796875, acc is 0.091796875,                    taks 0.6995997428894043 seconds
+2020-05-03 14:37:37,976 - RBF - INFO - loss 2.3146015063474987, in epoch 5, in step 199, in global step 0.064453125, acc is 0.064453125,                    taks 0.7002003192901611 seconds
+2020-05-03 14:37:37,982 - RBF - INFO - test->loss 2.311134369204434, in epoch 5, in step 199, in global step 2700,                     acc is 0.087890625, taks 0.00599980354309082 seconds
+2020-05-03 14:37:38,618 - RBF - INFO - loss 2.2927739194326406, in epoch 5, in step 299, in global step 0.10546875, acc is 0.10546875,                    taks 0.6359999179840088 seconds
+2020-05-03 14:37:39,313 - RBF - INFO - loss 2.310359978240818, in epoch 5, in step 399, in global step 0.11328125, acc is 0.11328125,                    taks 0.695000171661377 seconds
+2020-05-03 14:37:39,319 - RBF - INFO - test->loss 2.310062614228523, in epoch 5, in step 399, in global step 2900,                     acc is 0.087890625, taks 0.006000041961669922 seconds
+2020-05-03 14:37:40,003 - RBF - INFO - loss 2.3029287067142867, in epoch 5, in step 499, in global step 0.12890625, acc is 0.12890625,                    taks 0.6848001480102539 seconds
+2020-05-03 14:37:40,003 - RBF - INFO - train epoch 6 of total 5000 epoches
+2020-05-03 14:37:40,694 - RBF - INFO - loss 2.3057760427012304, in epoch 6, in step 99, in global step 0.07421875, acc is 0.07421875,                    taks 0.690199613571167 seconds
+2020-05-03 14:37:41,400 - RBF - INFO - loss 2.298866248759003, in epoch 6, in step 199, in global step 0.12109375, acc is 0.12109375,                    taks 0.7021999359130859 seconds
+2020-05-03 14:37:41,400 - RBF - INFO - test->loss 2.308608645334799, in epoch 6, in step 199, in global step 3200,                     acc is 0.087890625, taks 0.0 seconds
+2020-05-03 14:37:42,093 - RBF - INFO - loss 2.3160659995305375, in epoch 6, in step 299, in global step 0.0859375, acc is 0.0859375,                    taks 0.6934001445770264 seconds
+2020-05-03 14:37:42,782 - RBF - INFO - loss 2.3055054022283787, in epoch 6, in step 399, in global step 0.1328125, acc is 0.1328125,                    taks 0.6887998580932617 seconds
+2020-05-03 14:37:42,787 - RBF - INFO - test->loss 2.3077974639093615, in epoch 6, in step 399, in global step 3400,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:37:43,431 - RBF - INFO - loss 2.3043777243219044, in epoch 6, in step 499, in global step 0.119140625, acc is 0.119140625,                    taks 0.6429998874664307 seconds
+2020-05-03 14:37:43,431 - RBF - INFO - train epoch 7 of total 5000 epoches
+2020-05-03 14:37:44,132 - RBF - INFO - loss 2.3003886225689896, in epoch 7, in step 99, in global step 0.111328125, acc is 0.111328125,                    taks 0.7006001472473145 seconds
+2020-05-03 14:37:44,819 - RBF - INFO - loss 2.304322822160037, in epoch 7, in step 199, in global step 0.109375, acc is 0.109375,                    taks 0.6878001689910889 seconds
+2020-05-03 14:37:44,824 - RBF - INFO - test->loss 2.3066732913233863, in epoch 7, in step 199, in global step 3700,                     acc is 0.103515625, taks 0.004999876022338867 seconds
+2020-05-03 14:37:45,517 - RBF - INFO - loss 2.304575713168914, in epoch 7, in step 299, in global step 0.123046875, acc is 0.123046875,                    taks 0.6912000179290771 seconds
+2020-05-03 14:37:46,230 - RBF - INFO - loss 2.2971856603808027, in epoch 7, in step 399, in global step 0.125, acc is 0.125,                    taks 0.7132000923156738 seconds
+2020-05-03 14:37:46,236 - RBF - INFO - test->loss 2.3060708279880786, in epoch 7, in step 399, in global step 3900,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:37:46,925 - RBF - INFO - loss 2.29956019636009, in epoch 7, in step 499, in global step 0.119140625, acc is 0.119140625,                    taks 0.6894001960754395 seconds
+2020-05-03 14:37:46,926 - RBF - INFO - train epoch 8 of total 5000 epoches
+2020-05-03 14:37:47,626 - RBF - INFO - loss 2.309543520640595, in epoch 8, in step 99, in global step 0.1015625, acc is 0.1015625,                    taks 0.6995999813079834 seconds
+2020-05-03 14:37:48,270 - RBF - INFO - loss 2.3029621536204408, in epoch 8, in step 199, in global step 0.125, acc is 0.125,                    taks 0.6440000534057617 seconds
+2020-05-03 14:37:48,276 - RBF - INFO - test->loss 2.305236691955855, in epoch 8, in step 199, in global step 4200,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:37:48,961 - RBF - INFO - loss 2.3106546415591263, in epoch 8, in step 299, in global step 0.103515625, acc is 0.103515625,                    taks 0.6848001480102539 seconds
+2020-05-03 14:37:49,639 - RBF - INFO - loss 2.308763527279363, in epoch 8, in step 399, in global step 0.11328125, acc is 0.11328125,                    taks 0.6784000396728516 seconds
+2020-05-03 14:37:49,646 - RBF - INFO - test->loss 2.304747848982757, in epoch 8, in step 399, in global step 4400,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:37:50,340 - RBF - INFO - loss 2.299521686721579, in epoch 8, in step 499, in global step 0.109375, acc is 0.109375,                    taks 0.693000078201294 seconds
+2020-05-03 14:37:50,341 - RBF - INFO - train epoch 9 of total 5000 epoches
+2020-05-03 14:37:51,026 - RBF - INFO - loss 2.307724022602181, in epoch 9, in step 99, in global step 0.083984375, acc is 0.083984375,                    taks 0.6855998039245605 seconds
+2020-05-03 14:37:51,716 - RBF - INFO - loss 2.2999374876995407, in epoch 9, in step 199, in global step 0.130859375, acc is 0.130859375,                    taks 0.6904001235961914 seconds
+2020-05-03 14:37:51,723 - RBF - INFO - test->loss 2.3041611051830824, in epoch 9, in step 199, in global step 4700,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:37:52,408 - RBF - INFO - loss 2.3037653501681232, in epoch 9, in step 299, in global step 0.091796875, acc is 0.091796875,                    taks 0.6852002143859863 seconds
+2020-05-03 14:37:53,048 - RBF - INFO - loss 2.3018545718456176, in epoch 9, in step 399, in global step 0.13671875, acc is 0.13671875,                    taks 0.6399998664855957 seconds
+2020-05-03 14:37:53,054 - RBF - INFO - test->loss 2.303812674320193, in epoch 9, in step 399, in global step 4900,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:37:53,750 - RBF - INFO - loss 2.3040354723449266, in epoch 9, in step 499, in global step 0.1015625, acc is 0.1015625,                    taks 0.6959998607635498 seconds
+2020-05-03 14:37:54,345 - RBF - INFO - Model saved in path: ckpt_RBF in epoch 9. acc is 0.1015625, loss is 2.3040354723449266
+2020-05-03 14:37:54,346 - RBF - INFO - train epoch 10 of total 5000 epoches
+2020-05-03 14:37:56,103 - RBF - INFO - loss 2.3016315695606195, in epoch 10, in step 99, in global step 0.126953125, acc is 0.126953125,                    taks 2.3518002033233643 seconds
+2020-05-03 14:37:57,573 - RBF - INFO - loss 2.299023995094249, in epoch 10, in step 199, in global step 0.107421875, acc is 0.107421875,                    taks 1.4700000286102295 seconds
+2020-05-03 14:37:57,586 - RBF - INFO - test->loss 2.303357600882514, in epoch 10, in step 199, in global step 5200,                     acc is 0.103515625, taks 0.013000011444091797 seconds
+2020-05-03 14:37:59,041 - RBF - INFO - loss 2.3054048339974234, in epoch 10, in step 299, in global step 0.119140625, acc is 0.119140625,                    taks 1.4549999237060547 seconds
+2020-05-03 14:38:00,504 - RBF - INFO - loss 2.301181230996492, in epoch 10, in step 399, in global step 0.119140625, acc is 0.119140625,                    taks 1.4618000984191895 seconds
+2020-05-03 14:38:00,516 - RBF - INFO - test->loss 2.3031173687063586, in epoch 10, in step 399, in global step 5400,                     acc is 0.103515625, taks 0.011999845504760742 seconds
+2020-05-03 14:38:02,030 - RBF - INFO - loss 2.2966912062154248, in epoch 10, in step 499, in global step 0.1171875, acc is 0.1171875,                    taks 1.514200210571289 seconds
+2020-05-03 14:38:02,030 - RBF - INFO - train epoch 11 of total 5000 epoches
+2020-05-03 14:38:03,362 - RBF - INFO - loss 2.3054607217474867, in epoch 11, in step 99, in global step 0.1171875, acc is 0.1171875,                    taks 1.3320000171661377 seconds
+2020-05-03 14:38:04,865 - RBF - INFO - loss 2.297786390524486, in epoch 11, in step 199, in global step 0.12109375, acc is 0.12109375,                    taks 1.5016000270843506 seconds
+2020-05-03 14:38:04,880 - RBF - INFO - test->loss 2.302792078633357, in epoch 11, in step 199, in global step 5700,                     acc is 0.103515625, taks 0.01399993896484375 seconds
+2020-05-03 14:38:06,333 - RBF - INFO - loss 2.3057962582687326, in epoch 11, in step 299, in global step 0.119140625, acc is 0.119140625,                    taks 1.4509999752044678 seconds
+2020-05-03 14:38:07,731 - RBF - INFO - loss 2.300689794975966, in epoch 11, in step 399, in global step 0.109375, acc is 0.109375,                    taks 1.398400068283081 seconds
+2020-05-03 14:38:07,744 - RBF - INFO - test->loss 2.302622530734186, in epoch 11, in step 399, in global step 5900,                     acc is 0.103515625, taks 0.011999845504760742 seconds
+2020-05-03 14:38:09,107 - RBF - INFO - loss 2.303817814732536, in epoch 11, in step 499, in global step 0.11328125, acc is 0.11328125,                    taks 1.3624000549316406 seconds
+2020-05-03 14:38:09,107 - RBF - INFO - train epoch 12 of total 5000 epoches
+2020-05-03 14:38:10,449 - RBF - INFO - loss 2.304647837078388, in epoch 12, in step 99, in global step 0.091796875, acc is 0.091796875,                    taks 1.3411998748779297 seconds
+2020-05-03 14:38:11,739 - RBF - INFO - loss 2.30042306222571, in epoch 12, in step 199, in global step 0.12890625, acc is 0.12890625,                    taks 1.290600061416626 seconds
+2020-05-03 14:38:11,750 - RBF - INFO - test->loss 2.3024242289412546, in epoch 12, in step 199, in global step 6200,                     acc is 0.103515625, taks 0.010999917984008789 seconds
+2020-05-03 14:38:12,964 - RBF - INFO - loss 2.3020207142024582, in epoch 12, in step 299, in global step 0.0859375, acc is 0.0859375,                    taks 1.2142000198364258 seconds
+2020-05-03 14:38:14,156 - RBF - INFO - loss 2.2989632207900774, in epoch 12, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 1.1916000843048096 seconds
+2020-05-03 14:38:14,166 - RBF - INFO - test->loss 2.302323015853096, in epoch 12, in step 399, in global step 6400,                     acc is 0.103515625, taks 0.009999990463256836 seconds
+2020-05-03 14:38:15,374 - RBF - INFO - loss 2.299776004474758, in epoch 12, in step 499, in global step 0.12890625, acc is 0.12890625,                    taks 1.2075998783111572 seconds
+2020-05-03 14:38:15,375 - RBF - INFO - train epoch 13 of total 5000 epoches
+2020-05-03 14:38:16,564 - RBF - INFO - loss 2.298820775434919, in epoch 13, in step 99, in global step 0.115234375, acc is 0.115234375,                    taks 1.190000057220459 seconds
+2020-05-03 14:38:17,778 - RBF - INFO - loss 2.3017727418166998, in epoch 13, in step 199, in global step 0.1171875, acc is 0.1171875,                    taks 1.2146000862121582 seconds
+2020-05-03 14:38:17,788 - RBF - INFO - test->loss 2.302155048865184, in epoch 13, in step 199, in global step 6700,                     acc is 0.103515625, taks 0.009999990463256836 seconds
+2020-05-03 14:38:19,001 - RBF - INFO - loss 2.2992725407076473, in epoch 13, in step 299, in global step 0.126953125, acc is 0.126953125,                    taks 1.2131998538970947 seconds
+2020-05-03 14:38:20,094 - RBF - INFO - loss 2.3011568685783916, in epoch 13, in step 399, in global step 0.09765625, acc is 0.09765625,                    taks 1.0929999351501465 seconds
+2020-05-03 14:38:20,104 - RBF - INFO - test->loss 2.302086550210919, in epoch 13, in step 399, in global step 6900,                     acc is 0.103515625, taks 0.010000228881835938 seconds
+2020-05-03 14:38:21,293 - RBF - INFO - loss 2.2995489061201857, in epoch 13, in step 499, in global step 0.103515625, acc is 0.103515625,                    taks 1.1881999969482422 seconds
+2020-05-03 14:38:21,294 - RBF - INFO - train epoch 14 of total 5000 epoches
+2020-05-03 14:38:22,502 - RBF - INFO - loss 2.2988619801332293, in epoch 14, in step 99, in global step 0.12109375, acc is 0.12109375,                    taks 1.207200050354004 seconds
+2020-05-03 14:38:23,703 - RBF - INFO - loss 2.3008318225728406, in epoch 14, in step 199, in global step 0.1171875, acc is 0.1171875,                    taks 1.2015998363494873 seconds
+2020-05-03 14:38:23,714 - RBF - INFO - test->loss 2.301991726460159, in epoch 14, in step 199, in global step 7200,                     acc is 0.103515625, taks 0.010999917984008789 seconds
+2020-05-03 14:38:24,939 - RBF - INFO - loss 2.2997560172638, in epoch 14, in step 299, in global step 0.087890625, acc is 0.087890625,                    taks 1.2242002487182617 seconds
+2020-05-03 14:38:26,198 - RBF - INFO - loss 2.301606572573461, in epoch 14, in step 399, in global step 0.109375, acc is 0.109375,                    taks 1.2593998908996582 seconds
+2020-05-03 14:38:26,208 - RBF - INFO - test->loss 2.301920181739261, in epoch 14, in step 399, in global step 7400,                     acc is 0.103515625, taks 0.009999752044677734 seconds
+2020-05-03 14:38:27,492 - RBF - INFO - loss 2.306540097612838, in epoch 14, in step 499, in global step 0.12109375, acc is 0.12109375,                    taks 1.2842001914978027 seconds
+2020-05-03 14:38:27,492 - RBF - INFO - train epoch 15 of total 5000 epoches
+2020-05-03 14:38:28,604 - RBF - INFO - loss 2.300369710507365, in epoch 15, in step 99, in global step 0.099609375, acc is 0.099609375,                    taks 1.111799955368042 seconds
+2020-05-03 14:38:29,785 - RBF - INFO - loss 2.2985248575043915, in epoch 15, in step 199, in global step 0.107421875, acc is 0.107421875,                    taks 1.1795997619628906 seconds
+2020-05-03 14:38:29,796 - RBF - INFO - test->loss 2.3018463938049627, in epoch 15, in step 199, in global step 7700,                     acc is 0.103515625, taks 0.01100015640258789 seconds
+2020-05-03 14:38:30,993 - RBF - INFO - loss 2.3007744516212347, in epoch 15, in step 299, in global step 0.08984375, acc is 0.08984375,                    taks 1.1975998878479004 seconds
+2020-05-03 14:38:32,205 - RBF - INFO - loss 2.3015639174876483, in epoch 15, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 1.2116000652313232 seconds
+2020-05-03 14:38:32,215 - RBF - INFO - test->loss 2.301835591918423, in epoch 15, in step 399, in global step 7900,                     acc is 0.103515625, taks 0.009999990463256836 seconds
+2020-05-03 14:38:33,416 - RBF - INFO - loss 2.298808881736069, in epoch 15, in step 499, in global step 0.126953125, acc is 0.126953125,                    taks 1.2014000415802002 seconds
+2020-05-03 14:38:33,417 - RBF - INFO - train epoch 16 of total 5000 epoches
+2020-05-03 14:38:34,630 - RBF - INFO - loss 2.302960195811596, in epoch 16, in step 99, in global step 0.107421875, acc is 0.107421875,                    taks 1.213399887084961 seconds
+2020-05-03 14:38:35,843 - RBF - INFO - loss 2.3011079339200022, in epoch 16, in step 199, in global step 0.109375, acc is 0.109375,                    taks 1.2130002975463867 seconds
+2020-05-03 14:38:35,853 - RBF - INFO - test->loss 2.301770837139845, in epoch 16, in step 199, in global step 8200,                     acc is 0.103515625, taks 0.009999752044677734 seconds
+2020-05-03 14:38:36,961 - RBF - INFO - loss 2.300884681574753, in epoch 16, in step 299, in global step 0.10546875, acc is 0.10546875,                    taks 1.107600212097168 seconds
+2020-05-03 14:38:38,160 - RBF - INFO - loss 2.306527204129581, in epoch 16, in step 399, in global step 0.103515625, acc is 0.103515625,                    taks 1.1974000930786133 seconds
+2020-05-03 14:38:38,172 - RBF - INFO - test->loss 2.3017714633503608, in epoch 16, in step 399, in global step 8400,                     acc is 0.103515625, taks 0.011999845504760742 seconds
+2020-05-03 14:38:39,345 - RBF - INFO - loss 2.2960520823802377, in epoch 16, in step 499, in global step 0.13671875, acc is 0.13671875,                    taks 1.1735999584197998 seconds
+2020-05-03 14:38:39,345 - RBF - INFO - train epoch 17 of total 5000 epoches
+2020-05-03 14:38:40,548 - RBF - INFO - loss 2.3036844118682485, in epoch 17, in step 99, in global step 0.1171875, acc is 0.1171875,                    taks 1.2024002075195312 seconds
+2020-05-03 14:38:41,744 - RBF - INFO - loss 2.3023703104304287, in epoch 17, in step 199, in global step 0.109375, acc is 0.109375,                    taks 1.1959998607635498 seconds
+2020-05-03 14:38:41,756 - RBF - INFO - test->loss 2.3016954471805047, in epoch 17, in step 199, in global step 8700,                     acc is 0.103515625, taks 0.01100015640258789 seconds
+2020-05-03 14:38:42,963 - RBF - INFO - loss 2.300719839680014, in epoch 17, in step 299, in global step 0.11328125, acc is 0.11328125,                    taks 1.2077999114990234 seconds
+2020-05-03 14:38:44,160 - RBF - INFO - loss 2.301949528567385, in epoch 17, in step 399, in global step 0.11328125, acc is 0.11328125,                    taks 1.1952002048492432 seconds
+2020-05-03 14:38:44,169 - RBF - INFO - test->loss 2.301705999503967, in epoch 17, in step 399, in global step 8900,                     acc is 0.103515625, taks 0.008999824523925781 seconds
+2020-05-03 14:38:45,282 - RBF - INFO - loss 2.2993547660282303, in epoch 17, in step 499, in global step 0.111328125, acc is 0.111328125,                    taks 1.1124000549316406 seconds
+2020-05-03 14:38:45,283 - RBF - INFO - train epoch 18 of total 5000 epoches
+2020-05-03 14:38:46,473 - RBF - INFO - loss 2.302576917425428, in epoch 18, in step 99, in global step 0.10546875, acc is 0.10546875,                    taks 1.1907999515533447 seconds
+2020-05-03 14:38:47,675 - RBF - INFO - loss 2.300914611517784, in epoch 18, in step 199, in global step 0.115234375, acc is 0.115234375,                    taks 1.2018001079559326 seconds
+2020-05-03 14:38:47,686 - RBF - INFO - test->loss 2.301683626940415, in epoch 18, in step 199, in global step 9200,                     acc is 0.103515625, taks 0.010999917984008789 seconds
+2020-05-03 14:38:48,880 - RBF - INFO - loss 2.3001297689826186, in epoch 18, in step 299, in global step 0.1171875, acc is 0.1171875,                    taks 1.1946001052856445 seconds
+2020-05-03 14:38:50,061 - RBF - INFO - loss 2.297892717586641, in epoch 18, in step 399, in global step 0.13671875, acc is 0.13671875,                    taks 1.1797997951507568 seconds
+2020-05-03 14:38:50,071 - RBF - INFO - test->loss 2.3016602020166905, in epoch 18, in step 399, in global step 9400,                     acc is 0.103515625, taks 0.009999990463256836 seconds
+2020-05-03 14:38:51,297 - RBF - INFO - loss 2.3003727123459017, in epoch 18, in step 499, in global step 0.111328125, acc is 0.111328125,                    taks 1.2260000705718994 seconds
+2020-05-03 14:38:51,297 - RBF - INFO - train epoch 19 of total 5000 epoches
+2020-05-03 14:38:52,502 - RBF - INFO - loss 2.3050102464291022, in epoch 19, in step 99, in global step 0.1015625, acc is 0.1015625,                    taks 1.2049999237060547 seconds
+2020-05-03 14:38:53,631 - RBF - INFO - loss 2.303277432188742, in epoch 19, in step 199, in global step 0.103515625, acc is 0.103515625,                    taks 1.1291999816894531 seconds
+2020-05-03 14:38:53,631 - RBF - INFO - test->loss 2.3016630626638017, in epoch 19, in step 199, in global step 9700,                     acc is 0.103515625, taks 0.0 seconds
+2020-05-03 14:38:54,846 - RBF - INFO - loss 2.3027737269968305, in epoch 19, in step 299, in global step 0.09375, acc is 0.09375,                    taks 1.2149999141693115 seconds
+2020-05-03 14:38:56,062 - RBF - INFO - loss 2.299264921956652, in epoch 19, in step 399, in global step 0.130859375, acc is 0.130859375,                    taks 1.215399980545044 seconds
+2020-05-03 14:38:56,073 - RBF - INFO - test->loss 2.3016495695351233, in epoch 19, in step 399, in global step 9900,                     acc is 0.103515625, taks 0.009999990463256836 seconds
+2020-05-03 14:38:57,279 - RBF - INFO - loss 2.306129689803563, in epoch 19, in step 499, in global step 0.08984375, acc is 0.08984375,                    taks 1.2067999839782715 seconds
+2020-05-03 14:38:58,029 - RBF - INFO - Model saved in path: ckpt_RBF in epoch 19. acc is 0.08984375, loss is 2.306129689803563
+2020-05-03 14:38:58,030 - RBF - INFO - train epoch 20 of total 5000 epoches
+2020-05-03 14:38:59,936 - RBF - INFO - loss 2.3028040294299146, in epoch 20, in step 99, in global step 0.095703125, acc is 0.095703125,                    taks 2.656599998474121 seconds
+2020-05-03 14:39:01,695 - RBF - INFO - loss 2.3020632048323266, in epoch 20, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 1.7576000690460205 seconds
+2020-05-03 14:39:01,708 - RBF - INFO - test->loss 2.301645914411538, in epoch 20, in step 199, in global step 10200,                     acc is 0.103515625, taks 0.012999773025512695 seconds
+2020-05-03 14:39:03,238 - RBF - INFO - loss 2.3034267675231983, in epoch 20, in step 299, in global step 0.099609375, acc is 0.099609375,                    taks 1.5302000045776367 seconds
+2020-05-03 14:39:04,570 - RBF - INFO - loss 2.2961873664732053, in epoch 20, in step 399, in global step 0.138671875, acc is 0.138671875,                    taks 1.3324000835418701 seconds
+2020-05-03 14:39:04,580 - RBF - INFO - test->loss 2.301627131450463, in epoch 20, in step 399, in global step 10400,                     acc is 0.103515625, taks 0.009999990463256836 seconds
+2020-05-03 14:39:05,723 - RBF - INFO - loss 2.298511678542555, in epoch 20, in step 499, in global step 0.123046875, acc is 0.123046875,                    taks 1.1431999206542969 seconds
+2020-05-03 14:39:05,723 - RBF - INFO - train epoch 21 of total 5000 epoches
+2020-05-03 14:39:06,978 - RBF - INFO - loss 2.29916623647423, in epoch 21, in step 99, in global step 0.11328125, acc is 0.11328125,                    taks 1.2546000480651855 seconds
+2020-05-03 14:39:08,004 - RBF - INFO - loss 2.2992747640692888, in epoch 21, in step 199, in global step 0.125, acc is 0.125,                    taks 1.0249998569488525 seconds
+2020-05-03 14:39:08,013 - RBF - INFO - test->loss 2.301635419167435, in epoch 21, in step 199, in global step 10700,                     acc is 0.103515625, taks 0.009000301361083984 seconds
+2020-05-03 14:39:09,070 - RBF - INFO - loss 2.301563121751087, in epoch 21, in step 299, in global step 0.115234375, acc is 0.115234375,                    taks 1.0565998554229736 seconds
+2020-05-03 14:39:10,127 - RBF - INFO - loss 2.304211347084806, in epoch 21, in step 399, in global step 0.099609375, acc is 0.099609375,                    taks 1.0570001602172852 seconds
+2020-05-03 14:39:10,137 - RBF - INFO - test->loss 2.301624533325937, in epoch 21, in step 399, in global step 10900,                     acc is 0.103515625, taks 0.008999824523925781 seconds
+2020-05-03 14:39:11,221 - RBF - INFO - loss 2.3023342332116887, in epoch 21, in step 499, in global step 0.09375, acc is 0.09375,                    taks 1.0840001106262207 seconds
+2020-05-03 14:39:11,222 - RBF - INFO - train epoch 22 of total 5000 epoches
+2020-05-03 14:39:12,208 - RBF - INFO - loss 2.2998506709285467, in epoch 22, in step 99, in global step 0.125, acc is 0.125,                    taks 0.9876000881195068 seconds
+2020-05-03 14:39:13,273 - RBF - INFO - loss 2.302317220462428, in epoch 22, in step 199, in global step 0.107421875, acc is 0.107421875,                    taks 1.065000057220459 seconds
+2020-05-03 14:39:13,298 - RBF - INFO - test->loss 2.301624050900105, in epoch 22, in step 199, in global step 11200,                     acc is 0.103515625, taks 0.02460002899169922 seconds
+2020-05-03 14:39:14,364 - RBF - INFO - loss 2.304747339596685, in epoch 22, in step 299, in global step 0.09765625, acc is 0.09765625,                    taks 1.065199851989746 seconds
+2020-05-03 14:39:15,425 - RBF - INFO - loss 2.305978054327957, in epoch 22, in step 399, in global step 0.1015625, acc is 0.1015625,                    taks 1.0612001419067383 seconds
+2020-05-03 14:39:15,434 - RBF - INFO - test->loss 2.3016180857058792, in epoch 22, in step 399, in global step 11400,                     acc is 0.103515625, taks 0.007999897003173828 seconds
+2020-05-03 14:39:16,497 - RBF - INFO - loss 2.303050804436852, in epoch 22, in step 499, in global step 0.111328125, acc is 0.111328125,                    taks 1.0625998973846436 seconds
+2020-05-03 14:39:16,498 - RBF - INFO - train epoch 23 of total 5000 epoches
+2020-05-03 14:39:17,577 - RBF - INFO - loss 2.301483522947713, in epoch 23, in step 99, in global step 0.1171875, acc is 0.1171875,                    taks 1.0794000625610352 seconds
+2020-05-03 14:39:18,578 - RBF - INFO - loss 2.2971431105191193, in epoch 23, in step 199, in global step 0.12109375, acc is 0.12109375,                    taks 1.0003998279571533 seconds
+2020-05-03 14:39:18,589 - RBF - INFO - test->loss 2.3016056247699956, in epoch 23, in step 199, in global step 11700,                     acc is 0.103515625, taks 0.01100015640258789 seconds
+2020-05-03 14:39:19,661 - RBF - INFO - loss 2.29691400386244, in epoch 23, in step 299, in global step 0.140625, acc is 0.140625,                    taks 1.072199821472168 seconds
+2020-05-03 14:39:20,739 - RBF - INFO - loss 2.3022910215897134, in epoch 23, in step 399, in global step 0.107421875, acc is 0.107421875,                    taks 1.078200101852417 seconds
+2020-05-03 14:39:20,748 - RBF - INFO - test->loss 2.3016108747854727, in epoch 23, in step 399, in global step 11900,                     acc is 0.103515625, taks 0.009000062942504883 seconds
+2020-05-03 14:39:21,806 - RBF - INFO - loss 2.303558928475818, in epoch 23, in step 499, in global step 0.115234375, acc is 0.115234375,                    taks 1.0567998886108398 seconds
+2020-05-03 14:39:21,806 - RBF - INFO - train epoch 24 of total 5000 epoches
+2020-05-03 14:39:22,886 - RBF - INFO - loss 2.2972730809405837, in epoch 24, in step 99, in global step 0.119140625, acc is 0.119140625,                    taks 1.0799999237060547 seconds
+2020-05-03 14:39:23,957 - RBF - INFO - loss 2.3003413153729833, in epoch 24, in step 199, in global step 0.103515625, acc is 0.103515625,                    taks 1.0715999603271484 seconds
+2020-05-03 14:39:23,969 - RBF - INFO - test->loss 2.3015898163766053, in epoch 24, in step 199, in global step 12200,                     acc is 0.103515625, taks 0.012000083923339844 seconds
+2020-05-03 14:39:25,039 - RBF - INFO - loss 2.2995913212946917, in epoch 24, in step 299, in global step 0.1171875, acc is 0.1171875,                    taks 1.0689997673034668 seconds
+2020-05-03 14:39:26,034 - RBF - INFO - loss 2.3017034412351833, in epoch 24, in step 399, in global step 0.109375, acc is 0.109375,                    taks 0.9949996471405029 seconds
+2020-05-03 14:39:26,043 - RBF - INFO - test->loss 2.3015972128538698, in epoch 24, in step 399, in global step 12400,                     acc is 0.103515625, taks 0.009000301361083984 seconds
+2020-05-03 14:39:27,105 - RBF - INFO - loss 2.3043487121661754, in epoch 24, in step 499, in global step 0.09765625, acc is 0.09765625,                    taks 1.0617997646331787 seconds
+2020-05-03 14:39:27,105 - RBF - INFO - train epoch 25 of total 5000 epoches
+2020-05-03 14:39:28,175 - RBF - INFO - loss 2.3028277930187806, in epoch 25, in step 99, in global step 0.109375, acc is 0.109375,                    taks 1.0702002048492432 seconds
+2020-05-03 14:39:29,260 - RBF - INFO - loss 2.3027143247533433, in epoch 25, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 1.0849997997283936 seconds
+2020-05-03 14:39:29,272 - RBF - INFO - test->loss 2.301603877911439, in epoch 25, in step 199, in global step 12700,                     acc is 0.103515625, taks 0.012000083923339844 seconds
+2020-05-03 14:39:30,345 - RBF - INFO - loss 2.3000733393089376, in epoch 25, in step 299, in global step 0.125, acc is 0.125,                    taks 1.0723998546600342 seconds
+2020-05-03 14:39:31,589 - RBF - INFO - loss 2.29580205803902, in epoch 25, in step 399, in global step 0.140625, acc is 0.140625,                    taks 1.243800163269043 seconds
+2020-05-03 14:39:31,598 - RBF - INFO - test->loss 2.3015896432886627, in epoch 25, in step 399, in global step 12900,                     acc is 0.103515625, taks 0.008999824523925781 seconds
+2020-05-03 14:39:32,725 - RBF - INFO - loss 2.299680487368498, in epoch 25, in step 499, in global step 0.123046875, acc is 0.123046875,                    taks 1.127000093460083 seconds
+2020-05-03 14:39:32,725 - RBF - INFO - train epoch 26 of total 5000 epoches
+2020-05-03 14:39:33,694 - RBF - INFO - loss 2.298321664392252, in epoch 26, in step 99, in global step 0.119140625, acc is 0.119140625,                    taks 0.96940016746521 seconds
+2020-05-03 14:39:34,506 - RBF - INFO - loss 2.3047270667832906, in epoch 26, in step 199, in global step 0.1015625, acc is 0.1015625,                    taks 0.8105998039245605 seconds
+2020-05-03 14:39:34,512 - RBF - INFO - test->loss 2.3015981858820718, in epoch 26, in step 199, in global step 13200,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:39:35,203 - RBF - INFO - loss 2.3004540999836545, in epoch 26, in step 299, in global step 0.109375, acc is 0.109375,                    taks 0.6915998458862305 seconds
+2020-05-03 14:39:35,891 - RBF - INFO - loss 2.3010516538997154, in epoch 26, in step 399, in global step 0.10546875, acc is 0.10546875,                    taks 0.6882002353668213 seconds
+2020-05-03 14:39:35,897 - RBF - INFO - test->loss 2.3015737962300546, in epoch 26, in step 399, in global step 13400,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:39:36,593 - RBF - INFO - loss 2.2980359624653364, in epoch 26, in step 499, in global step 0.119140625, acc is 0.119140625,                    taks 0.6953999996185303 seconds
+2020-05-03 14:39:36,593 - RBF - INFO - train epoch 27 of total 5000 epoches
+2020-05-03 14:39:37,283 - RBF - INFO - loss 2.3018976778287623, in epoch 27, in step 99, in global step 0.12109375, acc is 0.12109375,                    taks 0.6901998519897461 seconds
+2020-05-03 14:39:37,964 - RBF - INFO - loss 2.297244718279126, in epoch 27, in step 199, in global step 0.130859375, acc is 0.130859375,                    taks 0.6812002658843994 seconds
+2020-05-03 14:39:37,972 - RBF - INFO - test->loss 2.3015991784939915, in epoch 27, in step 199, in global step 13700,                     acc is 0.103515625, taks 0.007999897003173828 seconds
+2020-05-03 14:39:38,625 - RBF - INFO - loss 2.301919490449825, in epoch 27, in step 299, in global step 0.099609375, acc is 0.099609375,                    taks 0.6531999111175537 seconds
+2020-05-03 14:39:39,313 - RBF - INFO - loss 2.3024637201827174, in epoch 27, in step 399, in global step 0.10546875, acc is 0.10546875,                    taks 0.6872000694274902 seconds
+2020-05-03 14:39:39,319 - RBF - INFO - test->loss 2.3016079795217275, in epoch 27, in step 399, in global step 13900,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:39:40,011 - RBF - INFO - loss 2.3004768829592206, in epoch 27, in step 499, in global step 0.123046875, acc is 0.123046875,                    taks 0.6921999454498291 seconds
+2020-05-03 14:39:40,012 - RBF - INFO - train epoch 28 of total 5000 epoches
+2020-05-03 14:39:40,701 - RBF - INFO - loss 2.3053613106696202, in epoch 28, in step 99, in global step 0.103515625, acc is 0.103515625,                    taks 0.6902000904083252 seconds
+2020-05-03 14:39:41,387 - RBF - INFO - loss 2.3027744861289428, in epoch 28, in step 199, in global step 0.109375, acc is 0.109375,                    taks 0.685999870300293 seconds
+2020-05-03 14:39:41,392 - RBF - INFO - test->loss 2.301603246235418, in epoch 28, in step 199, in global step 14200,                     acc is 0.103515625, taks 0.004999876022338867 seconds
+2020-05-03 14:39:42,087 - RBF - INFO - loss 2.3013652883019593, in epoch 28, in step 299, in global step 0.099609375, acc is 0.099609375,                    taks 0.695000171661377 seconds
+2020-05-03 14:39:42,773 - RBF - INFO - loss 2.3029897733601237, in epoch 28, in step 399, in global step 0.095703125, acc is 0.095703125,                    taks 0.6856000423431396 seconds
+2020-05-03 14:39:42,778 - RBF - INFO - test->loss 2.301591337946225, in epoch 28, in step 399, in global step 14400,                     acc is 0.103515625, taks 0.004999876022338867 seconds
+2020-05-03 14:39:43,413 - RBF - INFO - loss 2.299206920035692, in epoch 28, in step 499, in global step 0.140625, acc is 0.140625,                    taks 0.635200023651123 seconds
+2020-05-03 14:39:43,413 - RBF - INFO - train epoch 29 of total 5000 epoches
+2020-05-03 14:39:44,111 - RBF - INFO - loss 2.304465811053555, in epoch 29, in step 99, in global step 0.076171875, acc is 0.076171875,                    taks 0.6980001926422119 seconds
+2020-05-03 14:39:44,931 - RBF - INFO - loss 2.303857999807155, in epoch 29, in step 199, in global step 0.095703125, acc is 0.095703125,                    taks 0.8199999332427979 seconds
+2020-05-03 14:39:44,937 - RBF - INFO - test->loss 2.3016000439434228, in epoch 29, in step 199, in global step 14700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:39:45,759 - RBF - INFO - loss 2.3016994301275338, in epoch 29, in step 299, in global step 0.1171875, acc is 0.1171875,                    taks 0.82200026512146 seconds
+2020-05-03 14:39:46,574 - RBF - INFO - loss 2.3003969244357565, in epoch 29, in step 399, in global step 0.107421875, acc is 0.107421875,                    taks 0.815000057220459 seconds
+2020-05-03 14:39:46,580 - RBF - INFO - test->loss 2.3015971368762167, in epoch 29, in step 399, in global step 14900,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:39:47,358 - RBF - INFO - loss 2.302123812229482, in epoch 29, in step 499, in global step 0.12109375, acc is 0.12109375,                    taks 0.7782001495361328 seconds
+2020-05-03 14:39:47,764 - RBF - INFO - Model saved in path: ckpt_RBF in epoch 29. acc is 0.12109375, loss is 2.302123812229482
+2020-05-03 14:39:47,764 - RBF - INFO - train epoch 30 of total 5000 epoches
+2020-05-03 14:39:48,585 - RBF - INFO - loss 2.297920862463343, in epoch 30, in step 99, in global step 0.126953125, acc is 0.126953125,                    taks 1.226799726486206 seconds
+2020-05-03 14:39:49,347 - RBF - INFO - loss 2.301697742342675, in epoch 30, in step 199, in global step 0.10546875, acc is 0.10546875,                    taks 0.762200117111206 seconds
+2020-05-03 14:39:49,355 - RBF - INFO - test->loss 2.3015947066380607, in epoch 30, in step 199, in global step 15200,                     acc is 0.103515625, taks 0.007999897003173828 seconds
+2020-05-03 14:39:50,175 - RBF - INFO - loss 2.300317842800179, in epoch 30, in step 299, in global step 0.111328125, acc is 0.111328125,                    taks 0.8196001052856445 seconds
+2020-05-03 14:39:50,982 - RBF - INFO - loss 2.3047533852995232, in epoch 30, in step 399, in global step 0.1015625, acc is 0.1015625,                    taks 0.8073999881744385 seconds
+2020-05-03 14:39:50,989 - RBF - INFO - test->loss 2.3016351075628005, in epoch 30, in step 399, in global step 15400,                     acc is 0.103515625, taks 0.0070002079010009766 seconds
+2020-05-03 14:39:51,806 - RBF - INFO - loss 2.305091319442168, in epoch 30, in step 499, in global step 0.0859375, acc is 0.0859375,                    taks 0.8173997402191162 seconds
+2020-05-03 14:39:51,806 - RBF - INFO - train epoch 31 of total 5000 epoches
+2020-05-03 14:39:52,578 - RBF - INFO - loss 2.298143800937481, in epoch 31, in step 99, in global step 0.13671875, acc is 0.13671875,                    taks 0.7714002132415771 seconds
+2020-05-03 14:39:53,267 - RBF - INFO - loss 2.3016017596972715, in epoch 31, in step 199, in global step 0.12109375, acc is 0.12109375,                    taks 0.6889998912811279 seconds
+2020-05-03 14:39:53,273 - RBF - INFO - test->loss 2.3016003484616148, in epoch 31, in step 199, in global step 15700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:39:53,956 - RBF - INFO - loss 2.297329779634225, in epoch 31, in step 299, in global step 0.142578125, acc is 0.142578125,                    taks 0.6834001541137695 seconds
+2020-05-03 14:39:54,605 - RBF - INFO - loss 2.301825520637222, in epoch 31, in step 399, in global step 0.109375, acc is 0.109375,                    taks 0.6488001346588135 seconds
+2020-05-03 14:39:54,611 - RBF - INFO - test->loss 2.3015861102809776, in epoch 31, in step 399, in global step 15900,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:39:55,298 - RBF - INFO - loss 2.298782622568899, in epoch 31, in step 499, in global step 0.119140625, acc is 0.119140625,                    taks 0.6872000694274902 seconds
+2020-05-03 14:39:55,298 - RBF - INFO - train epoch 32 of total 5000 epoches
+2020-05-03 14:39:55,975 - RBF - INFO - loss 2.304468659050186, in epoch 32, in step 99, in global step 0.087890625, acc is 0.087890625,                    taks 0.676800012588501 seconds
+2020-05-03 14:39:56,670 - RBF - INFO - loss 2.3013841199465848, in epoch 32, in step 199, in global step 0.111328125, acc is 0.111328125,                    taks 0.6951999664306641 seconds
+2020-05-03 14:39:56,676 - RBF - INFO - test->loss 2.30159013955517, in epoch 32, in step 199, in global step 16200,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:39:57,373 - RBF - INFO - loss 2.300673336701044, in epoch 32, in step 299, in global step 0.09765625, acc is 0.09765625,                    taks 0.6963999271392822 seconds
+2020-05-03 14:39:58,059 - RBF - INFO - loss 2.3019350913292076, in epoch 32, in step 399, in global step 0.095703125, acc is 0.095703125,                    taks 0.684999942779541 seconds
+2020-05-03 14:39:58,065 - RBF - INFO - test->loss 2.3016043781629025, in epoch 32, in step 399, in global step 16400,                     acc is 0.103515625, taks 0.004999876022338867 seconds
+2020-05-03 14:39:58,764 - RBF - INFO - loss 2.3046060869814946, in epoch 32, in step 499, in global step 0.10546875, acc is 0.10546875,                    taks 0.6998002529144287 seconds
+2020-05-03 14:39:58,764 - RBF - INFO - train epoch 33 of total 5000 epoches
+2020-05-03 14:39:59,403 - RBF - INFO - loss 2.295801426008348, in epoch 33, in step 99, in global step 0.130859375, acc is 0.130859375,                    taks 0.6389999389648438 seconds
+2020-05-03 14:40:00,092 - RBF - INFO - loss 2.3011737366033476, in epoch 33, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 0.6884000301361084 seconds
+2020-05-03 14:40:00,100 - RBF - INFO - test->loss 2.3015800359677807, in epoch 33, in step 199, in global step 16700,                     acc is 0.103515625, taks 0.007999897003173828 seconds
+2020-05-03 14:40:00,799 - RBF - INFO - loss 2.302849475275246, in epoch 33, in step 299, in global step 0.09765625, acc is 0.09765625,                    taks 0.6996002197265625 seconds
+2020-05-03 14:40:01,493 - RBF - INFO - loss 2.3048513825091614, in epoch 33, in step 399, in global step 0.09765625, acc is 0.09765625,                    taks 0.6937997341156006 seconds
+2020-05-03 14:40:01,499 - RBF - INFO - test->loss 2.301604780083541, in epoch 33, in step 399, in global step 16900,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:40:02,175 - RBF - INFO - loss 2.3021730299802443, in epoch 33, in step 499, in global step 0.1015625, acc is 0.1015625,                    taks 0.675800085067749 seconds
+2020-05-03 14:40:02,175 - RBF - INFO - train epoch 34 of total 5000 epoches
+2020-05-03 14:40:02,875 - RBF - INFO - loss 2.305512148778108, in epoch 34, in step 99, in global step 0.083984375, acc is 0.083984375,                    taks 0.6999998092651367 seconds
+2020-05-03 14:40:03,570 - RBF - INFO - loss 2.294695130258363, in epoch 34, in step 199, in global step 0.150390625, acc is 0.150390625,                    taks 0.695000171661377 seconds
+2020-05-03 14:40:03,576 - RBF - INFO - test->loss 2.301599948780896, in epoch 34, in step 199, in global step 17200,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:04,232 - RBF - INFO - loss 2.301328057099036, in epoch 34, in step 299, in global step 0.091796875, acc is 0.091796875,                    taks 0.6562001705169678 seconds
+2020-05-03 14:40:04,923 - RBF - INFO - loss 2.301172841458647, in epoch 34, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 0.6902000904083252 seconds
+2020-05-03 14:40:04,928 - RBF - INFO - test->loss 2.3015995784655097, in epoch 34, in step 399, in global step 17400,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:40:05,622 - RBF - INFO - loss 2.29646109454678, in epoch 34, in step 499, in global step 0.140625, acc is 0.140625,                    taks 0.6923999786376953 seconds
+2020-05-03 14:40:05,623 - RBF - INFO - train epoch 35 of total 5000 epoches
+2020-05-03 14:40:06,296 - RBF - INFO - loss 2.2973945876733346, in epoch 35, in step 99, in global step 0.123046875, acc is 0.123046875,                    taks 0.6735999584197998 seconds
+2020-05-03 14:40:06,990 - RBF - INFO - loss 2.2990002919691186, in epoch 35, in step 199, in global step 0.119140625, acc is 0.119140625,                    taks 0.6940000057220459 seconds
+2020-05-03 14:40:06,996 - RBF - INFO - test->loss 2.3015967645991706, in epoch 35, in step 199, in global step 17700,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:40:07,701 - RBF - INFO - loss 2.3008862643541574, in epoch 35, in step 299, in global step 0.125, acc is 0.125,                    taks 0.704200029373169 seconds
+2020-05-03 14:40:08,349 - RBF - INFO - loss 2.3036307522678543, in epoch 35, in step 399, in global step 0.099609375, acc is 0.099609375,                    taks 0.6480000019073486 seconds
+2020-05-03 14:40:08,355 - RBF - INFO - test->loss 2.3016057389869085, in epoch 35, in step 399, in global step 17900,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:40:09,055 - RBF - INFO - loss 2.3005335554888684, in epoch 35, in step 499, in global step 0.12109375, acc is 0.12109375,                    taks 0.7005999088287354 seconds
+2020-05-03 14:40:09,056 - RBF - INFO - train epoch 36 of total 5000 epoches
+2020-05-03 14:40:09,751 - RBF - INFO - loss 2.298230394784848, in epoch 36, in step 99, in global step 0.1171875, acc is 0.1171875,                    taks 0.6944000720977783 seconds
+2020-05-03 14:40:10,438 - RBF - INFO - loss 2.299637971942315, in epoch 36, in step 199, in global step 0.115234375, acc is 0.115234375,                    taks 0.6869997978210449 seconds
+2020-05-03 14:40:10,444 - RBF - INFO - test->loss 2.3016076133764223, in epoch 36, in step 199, in global step 18200,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:40:11,157 - RBF - INFO - loss 2.300839627274129, in epoch 36, in step 299, in global step 0.103515625, acc is 0.103515625,                    taks 0.7129998207092285 seconds
+2020-05-03 14:40:11,841 - RBF - INFO - loss 2.3075421772900504, in epoch 36, in step 399, in global step 0.08203125, acc is 0.08203125,                    taks 0.6844003200531006 seconds
+2020-05-03 14:40:11,847 - RBF - INFO - test->loss 2.301605717056356, in epoch 36, in step 399, in global step 18400,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:12,538 - RBF - INFO - loss 2.298331714252799, in epoch 36, in step 499, in global step 0.109375, acc is 0.109375,                    taks 0.6902000904083252 seconds
+2020-05-03 14:40:12,538 - RBF - INFO - train epoch 37 of total 5000 epoches
+2020-05-03 14:40:13,181 - RBF - INFO - loss 2.3033780184935, in epoch 37, in step 99, in global step 0.10546875, acc is 0.10546875,                    taks 0.6430001258850098 seconds
+2020-05-03 14:40:13,876 - RBF - INFO - loss 2.298216578091137, in epoch 37, in step 199, in global step 0.134765625, acc is 0.134765625,                    taks 0.6949999332427979 seconds
+2020-05-03 14:40:13,882 - RBF - INFO - test->loss 2.30157592740393, in epoch 37, in step 199, in global step 18700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:14,570 - RBF - INFO - loss 2.298610212870722, in epoch 37, in step 299, in global step 0.134765625, acc is 0.134765625,                    taks 0.6881999969482422 seconds
+2020-05-03 14:40:15,247 - RBF - INFO - loss 2.3024756454882973, in epoch 37, in step 399, in global step 0.11328125, acc is 0.11328125,                    taks 0.6770002841949463 seconds
+2020-05-03 14:40:15,254 - RBF - INFO - test->loss 2.3015806662637903, in epoch 37, in step 399, in global step 18900,                     acc is 0.103515625, taks 0.0069997310638427734 seconds
+2020-05-03 14:40:15,944 - RBF - INFO - loss 2.300871768563775, in epoch 37, in step 499, in global step 0.125, acc is 0.125,                    taks 0.6892001628875732 seconds
+2020-05-03 14:40:15,945 - RBF - INFO - train epoch 38 of total 5000 epoches
+2020-05-03 14:40:16,635 - RBF - INFO - loss 2.3028155131268724, in epoch 38, in step 99, in global step 0.111328125, acc is 0.111328125,                    taks 0.6903998851776123 seconds
+2020-05-03 14:40:17,331 - RBF - INFO - loss 2.3034784851525614, in epoch 38, in step 199, in global step 0.099609375, acc is 0.099609375,                    taks 0.6962001323699951 seconds
+2020-05-03 14:40:17,338 - RBF - INFO - test->loss 2.301592591039753, in epoch 38, in step 199, in global step 19200,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:40:17,991 - RBF - INFO - loss 2.2977576755693985, in epoch 38, in step 299, in global step 0.12109375, acc is 0.12109375,                    taks 0.6532001495361328 seconds
+2020-05-03 14:40:18,672 - RBF - INFO - loss 2.301850082220696, in epoch 38, in step 399, in global step 0.125, acc is 0.125,                    taks 0.6809999942779541 seconds
+2020-05-03 14:40:18,678 - RBF - INFO - test->loss 2.3016158686745287, in epoch 38, in step 399, in global step 19400,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:19,392 - RBF - INFO - loss 2.3016902693785086, in epoch 38, in step 499, in global step 0.119140625, acc is 0.119140625,                    taks 0.7130000591278076 seconds
+2020-05-03 14:40:19,393 - RBF - INFO - train epoch 39 of total 5000 epoches
+2020-05-03 14:40:20,214 - RBF - INFO - loss 2.3018861808146065, in epoch 39, in step 99, in global step 0.103515625, acc is 0.103515625,                    taks 0.820199728012085 seconds
+2020-05-03 14:40:21,017 - RBF - INFO - loss 2.3027438345423024, in epoch 39, in step 199, in global step 0.099609375, acc is 0.099609375,                    taks 0.8025999069213867 seconds
+2020-05-03 14:40:21,023 - RBF - INFO - test->loss 2.3016158397851627, in epoch 39, in step 199, in global step 19700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:21,818 - RBF - INFO - loss 2.3003063439979465, in epoch 39, in step 299, in global step 0.115234375, acc is 0.115234375,                    taks 0.7952001094818115 seconds
+2020-05-03 14:40:22,648 - RBF - INFO - loss 2.3023561608480287, in epoch 39, in step 399, in global step 0.1171875, acc is 0.1171875,                    taks 0.829200029373169 seconds
+2020-05-03 14:40:22,654 - RBF - INFO - test->loss 2.3015914474785797, in epoch 39, in step 399, in global step 19900,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:23,409 - RBF - INFO - loss 2.30296493742729, in epoch 39, in step 499, in global step 0.103515625, acc is 0.103515625,                    taks 0.7552001476287842 seconds
+2020-05-03 14:40:23,738 - RBF - INFO - Model saved in path: ckpt_RBF in epoch 39. acc is 0.103515625, loss is 2.30296493742729
+2020-05-03 14:40:23,738 - RBF - INFO - train epoch 40 of total 5000 epoches
+2020-05-03 14:40:24,553 - RBF - INFO - loss 2.301440830114606, in epoch 40, in step 99, in global step 0.10546875, acc is 0.10546875,                    taks 1.144200086593628 seconds
+2020-05-03 14:40:25,364 - RBF - INFO - loss 2.2977541220771975, in epoch 40, in step 199, in global step 0.130859375, acc is 0.130859375,                    taks 0.8113999366760254 seconds
+2020-05-03 14:40:25,372 - RBF - INFO - test->loss 2.3016149074851775, in epoch 40, in step 199, in global step 20200,                     acc is 0.103515625, taks 0.007999897003173828 seconds
+2020-05-03 14:40:26,188 - RBF - INFO - loss 2.303523771776392, in epoch 40, in step 299, in global step 0.09765625, acc is 0.09765625,                    taks 0.8155999183654785 seconds
+2020-05-03 14:40:26,981 - RBF - INFO - loss 2.304832144524704, in epoch 40, in step 399, in global step 0.109375, acc is 0.109375,                    taks 0.7920000553131104 seconds
+2020-05-03 14:40:26,987 - RBF - INFO - test->loss 2.301589430014844, in epoch 40, in step 399, in global step 20400,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:27,773 - RBF - INFO - loss 2.3004382044740312, in epoch 40, in step 499, in global step 0.095703125, acc is 0.095703125,                    taks 0.7864000797271729 seconds
+2020-05-03 14:40:27,773 - RBF - INFO - train epoch 41 of total 5000 epoches
+2020-05-03 14:40:28,449 - RBF - INFO - loss 2.303385968219632, in epoch 41, in step 99, in global step 0.10546875, acc is 0.10546875,                    taks 0.6751999855041504 seconds
+2020-05-03 14:40:29,091 - RBF - INFO - loss 2.299013152605383, in epoch 41, in step 199, in global step 0.111328125, acc is 0.111328125,                    taks 0.6426000595092773 seconds
+2020-05-03 14:40:29,096 - RBF - INFO - test->loss 2.301590237207836, in epoch 41, in step 199, in global step 20700,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:40:29,796 - RBF - INFO - loss 2.300667430204962, in epoch 41, in step 299, in global step 0.115234375, acc is 0.115234375,                    taks 0.7001998424530029 seconds
+2020-05-03 14:40:30,559 - RBF - INFO - loss 2.300917012814878, in epoch 41, in step 399, in global step 0.1171875, acc is 0.1171875,                    taks 0.762200117111206 seconds
+2020-05-03 14:40:30,566 - RBF - INFO - test->loss 2.3015804013855443, in epoch 41, in step 399, in global step 20900,                     acc is 0.103515625, taks 0.0070002079010009766 seconds
+2020-05-03 14:40:31,382 - RBF - INFO - loss 2.3003018348599302, in epoch 41, in step 499, in global step 0.115234375, acc is 0.115234375,                    taks 0.8165998458862305 seconds
+2020-05-03 14:40:31,382 - RBF - INFO - train epoch 42 of total 5000 epoches
+2020-05-03 14:40:32,200 - RBF - INFO - loss 2.3026124569478785, in epoch 42, in step 99, in global step 0.10546875, acc is 0.10546875,                    taks 0.818199872970581 seconds
+2020-05-03 14:40:33,024 - RBF - INFO - loss 2.300283909445969, in epoch 42, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 0.8226001262664795 seconds
+2020-05-03 14:40:33,030 - RBF - INFO - test->loss 2.3015912298538828, in epoch 42, in step 199, in global step 21200,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:33,716 - RBF - INFO - loss 2.299017839800018, in epoch 42, in step 299, in global step 0.126953125, acc is 0.126953125,                    taks 0.6860001087188721 seconds
+2020-05-03 14:40:34,362 - RBF - INFO - loss 2.305141633740483, in epoch 42, in step 399, in global step 0.09375, acc is 0.09375,                    taks 0.6459999084472656 seconds
+2020-05-03 14:40:34,367 - RBF - INFO - test->loss 2.3015861495953, in epoch 42, in step 399, in global step 21400,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:40:35,063 - RBF - INFO - loss 2.3035868817954572, in epoch 42, in step 499, in global step 0.103515625, acc is 0.103515625,                    taks 0.696199893951416 seconds
+2020-05-03 14:40:35,063 - RBF - INFO - train epoch 43 of total 5000 epoches
+2020-05-03 14:40:35,750 - RBF - INFO - loss 2.2994123044024146, in epoch 43, in step 99, in global step 0.1328125, acc is 0.1328125,                    taks 0.6865999698638916 seconds
+2020-05-03 14:40:36,453 - RBF - INFO - loss 2.3022088421302014, in epoch 43, in step 199, in global step 0.111328125, acc is 0.111328125,                    taks 0.703200101852417 seconds
+2020-05-03 14:40:36,460 - RBF - INFO - test->loss 2.3015990470456695, in epoch 43, in step 199, in global step 21700,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:40:37,190 - RBF - INFO - loss 2.298673533032355, in epoch 43, in step 299, in global step 0.115234375, acc is 0.115234375,                    taks 0.7295999526977539 seconds
+2020-05-03 14:40:37,864 - RBF - INFO - loss 2.3019024229524816, in epoch 43, in step 399, in global step 0.1171875, acc is 0.1171875,                    taks 0.6740000247955322 seconds
+2020-05-03 14:40:37,872 - RBF - INFO - test->loss 2.3016066805852198, in epoch 43, in step 399, in global step 21900,                     acc is 0.103515625, taks 0.007999897003173828 seconds
+2020-05-03 14:40:38,566 - RBF - INFO - loss 2.301955442252355, in epoch 43, in step 499, in global step 0.115234375, acc is 0.115234375,                    taks 0.6946001052856445 seconds
+2020-05-03 14:40:38,567 - RBF - INFO - train epoch 44 of total 5000 epoches
+2020-05-03 14:40:39,212 - RBF - INFO - loss 2.2987607486453396, in epoch 44, in step 99, in global step 0.119140625, acc is 0.119140625,                    taks 0.6459999084472656 seconds
+2020-05-03 14:40:39,891 - RBF - INFO - loss 2.3013522167484637, in epoch 44, in step 199, in global step 0.1328125, acc is 0.1328125,                    taks 0.678800106048584 seconds
+2020-05-03 14:40:39,896 - RBF - INFO - test->loss 2.301573629590763, in epoch 44, in step 199, in global step 22200,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:40:40,589 - RBF - INFO - loss 2.30198259157347, in epoch 44, in step 299, in global step 0.11328125, acc is 0.11328125,                    taks 0.6919999122619629 seconds
+2020-05-03 14:40:41,264 - RBF - INFO - loss 2.3013195442960646, in epoch 44, in step 399, in global step 0.109375, acc is 0.109375,                    taks 0.6749999523162842 seconds
+2020-05-03 14:40:41,269 - RBF - INFO - test->loss 2.3016058280721357, in epoch 44, in step 399, in global step 22400,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:40:41,966 - RBF - INFO - loss 2.2997198624846025, in epoch 44, in step 499, in global step 0.12109375, acc is 0.12109375,                    taks 0.6959998607635498 seconds
+2020-05-03 14:40:41,966 - RBF - INFO - train epoch 45 of total 5000 epoches
+2020-05-03 14:40:42,655 - RBF - INFO - loss 2.301346784427798, in epoch 45, in step 99, in global step 0.109375, acc is 0.109375,                    taks 0.6890003681182861 seconds
+2020-05-03 14:40:43,347 - RBF - INFO - loss 2.3014865508660747, in epoch 45, in step 199, in global step 0.115234375, acc is 0.115234375,                    taks 0.6921999454498291 seconds
+2020-05-03 14:40:43,353 - RBF - INFO - test->loss 2.301594995964149, in epoch 45, in step 199, in global step 22700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:44,006 - RBF - INFO - loss 2.298573519291402, in epoch 45, in step 299, in global step 0.1171875, acc is 0.1171875,                    taks 0.6522002220153809 seconds
+2020-05-03 14:40:44,685 - RBF - INFO - loss 2.3004223167387767, in epoch 45, in step 399, in global step 0.125, acc is 0.125,                    taks 0.6787998676300049 seconds
+2020-05-03 14:40:44,685 - RBF - INFO - test->loss 2.301581009017835, in epoch 45, in step 399, in global step 22900,                     acc is 0.103515625, taks 0.0 seconds
+2020-05-03 14:40:45,393 - RBF - INFO - loss 2.3042022764764645, in epoch 45, in step 499, in global step 0.08203125, acc is 0.08203125,                    taks 0.708200216293335 seconds
+2020-05-03 14:40:45,393 - RBF - INFO - train epoch 46 of total 5000 epoches
+2020-05-03 14:40:46,078 - RBF - INFO - loss 2.30216854546443, in epoch 46, in step 99, in global step 0.091796875, acc is 0.091796875,                    taks 0.684999942779541 seconds
+2020-05-03 14:40:46,777 - RBF - INFO - loss 2.300020135761691, in epoch 46, in step 199, in global step 0.12109375, acc is 0.12109375,                    taks 0.6979999542236328 seconds
+2020-05-03 14:40:46,783 - RBF - INFO - test->loss 2.301594594024243, in epoch 46, in step 199, in global step 23200,                     acc is 0.103515625, taks 0.005000114440917969 seconds
+2020-05-03 14:40:47,480 - RBF - INFO - loss 2.300253569590126, in epoch 46, in step 299, in global step 0.130859375, acc is 0.130859375,                    taks 0.6946001052856445 seconds
+2020-05-03 14:40:48,136 - RBF - INFO - loss 2.3000979067214864, in epoch 46, in step 399, in global step 0.125, acc is 0.125,                    taks 0.6560001373291016 seconds
+2020-05-03 14:40:48,142 - RBF - INFO - test->loss 2.301596837873439, in epoch 46, in step 399, in global step 23400,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:48,815 - RBF - INFO - loss 2.302501521301477, in epoch 46, in step 499, in global step 0.1171875, acc is 0.1171875,                    taks 0.6730000972747803 seconds
+2020-05-03 14:40:48,815 - RBF - INFO - train epoch 47 of total 5000 epoches
+2020-05-03 14:40:49,499 - RBF - INFO - loss 2.3013602637015556, in epoch 47, in step 99, in global step 0.103515625, acc is 0.103515625,                    taks 0.6842000484466553 seconds
+2020-05-03 14:40:50,197 - RBF - INFO - loss 2.3008981963323207, in epoch 47, in step 199, in global step 0.10546875, acc is 0.10546875,                    taks 0.698199987411499 seconds
+2020-05-03 14:40:50,203 - RBF - INFO - test->loss 2.3016287358134035, in epoch 47, in step 199, in global step 23700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:50,894 - RBF - INFO - loss 2.302433364975607, in epoch 47, in step 299, in global step 0.12109375, acc is 0.12109375,                    taks 0.69100022315979 seconds
+2020-05-03 14:40:51,594 - RBF - INFO - loss 2.304863459309441, in epoch 47, in step 399, in global step 0.080078125, acc is 0.080078125,                    taks 0.699199914932251 seconds
+2020-05-03 14:40:51,600 - RBF - INFO - test->loss 2.3015837087252153, in epoch 47, in step 399, in global step 23900,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:52,296 - RBF - INFO - loss 2.3016078177883594, in epoch 47, in step 499, in global step 0.115234375, acc is 0.115234375,                    taks 0.6967999935150146 seconds
+2020-05-03 14:40:52,296 - RBF - INFO - train epoch 48 of total 5000 epoches
+2020-05-03 14:40:52,944 - RBF - INFO - loss 2.298493865518516, in epoch 48, in step 99, in global step 0.126953125, acc is 0.126953125,                    taks 0.6476001739501953 seconds
+2020-05-03 14:40:53,633 - RBF - INFO - loss 2.3021659010461324, in epoch 48, in step 199, in global step 0.109375, acc is 0.109375,                    taks 0.6886000633239746 seconds
+2020-05-03 14:40:53,639 - RBF - INFO - test->loss 2.3016091842360877, in epoch 48, in step 199, in global step 24200,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:54,381 - RBF - INFO - loss 2.2973948036659406, in epoch 48, in step 299, in global step 0.1171875, acc is 0.1171875,                    taks 0.7422001361846924 seconds
+2020-05-03 14:40:55,169 - RBF - INFO - loss 2.303010350982455, in epoch 48, in step 399, in global step 0.10546875, acc is 0.10546875,                    taks 0.7886002063751221 seconds
+2020-05-03 14:40:55,175 - RBF - INFO - test->loss 2.301611292842753, in epoch 48, in step 399, in global step 24400,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:40:55,977 - RBF - INFO - loss 2.3003506050862708, in epoch 48, in step 499, in global step 0.115234375, acc is 0.115234375,                    taks 0.8020000457763672 seconds
+2020-05-03 14:40:55,977 - RBF - INFO - train epoch 49 of total 5000 epoches
+2020-05-03 14:40:56,808 - RBF - INFO - loss 2.2985195606570827, in epoch 49, in step 99, in global step 0.134765625, acc is 0.134765625,                    taks 0.8309998512268066 seconds
+2020-05-03 14:40:57,491 - RBF - INFO - loss 2.302036401986504, in epoch 49, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 0.6821999549865723 seconds
+2020-05-03 14:40:57,497 - RBF - INFO - test->loss 2.3015945916588327, in epoch 49, in step 199, in global step 24700,                     acc is 0.103515625, taks 0.0060002803802490234 seconds
+2020-05-03 14:40:58,128 - RBF - INFO - loss 2.29908305347137, in epoch 49, in step 299, in global step 0.13671875, acc is 0.13671875,                    taks 0.6315999031066895 seconds
+2020-05-03 14:40:58,822 - RBF - INFO - loss 2.2999880088462943, in epoch 49, in step 399, in global step 0.1171875, acc is 0.1171875,                    taks 0.6937999725341797 seconds
+2020-05-03 14:40:58,828 - RBF - INFO - test->loss 2.3015868421416528, in epoch 49, in step 399, in global step 24900,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:40:59,525 - RBF - INFO - loss 2.3001822415855417, in epoch 49, in step 499, in global step 0.1171875, acc is 0.1171875,                    taks 0.697199821472168 seconds
+2020-05-03 14:41:00,602 - RBF - INFO - Model saved in path: ckpt_RBF in epoch 49. acc is 0.1171875, loss is 2.3001822415855417
+2020-05-03 14:41:00,602 - RBF - INFO - train epoch 50 of total 5000 epoches
+2020-05-03 14:41:02,277 - RBF - INFO - loss 2.300167441518845, in epoch 50, in step 99, in global step 0.11328125, acc is 0.11328125,                    taks 2.752200126647949 seconds
+2020-05-03 14:41:03,737 - RBF - INFO - loss 2.3032694608375506, in epoch 50, in step 199, in global step 0.099609375, acc is 0.099609375,                    taks 1.4586000442504883 seconds
+2020-05-03 14:41:03,749 - RBF - INFO - test->loss 2.3015809120733506, in epoch 50, in step 199, in global step 25200,                     acc is 0.103515625, taks 0.012000083923339844 seconds
+2020-05-03 14:41:05,203 - RBF - INFO - loss 2.3047894476422996, in epoch 50, in step 299, in global step 0.09765625, acc is 0.09765625,                    taks 1.4535999298095703 seconds
+2020-05-03 14:41:06,690 - RBF - INFO - loss 2.30426625110231, in epoch 50, in step 399, in global step 0.091796875, acc is 0.091796875,                    taks 1.4873998165130615 seconds
+2020-05-03 14:41:06,725 - RBF - INFO - test->loss 2.3015972890384666, in epoch 50, in step 399, in global step 25400,                     acc is 0.103515625, taks 0.011999845504760742 seconds
+2020-05-03 14:41:07,881 - RBF - INFO - loss 2.3033137408721016, in epoch 50, in step 499, in global step 0.109375, acc is 0.109375,                    taks 1.156400203704834 seconds
+2020-05-03 14:41:07,881 - RBF - INFO - train epoch 51 of total 5000 epoches
+2020-05-03 14:41:08,982 - RBF - INFO - loss 2.2966942304398046, in epoch 51, in step 99, in global step 0.134765625, acc is 0.134765625,                    taks 1.1009998321533203 seconds
+2020-05-03 14:41:09,928 - RBF - INFO - loss 2.2990703952266487, in epoch 51, in step 199, in global step 0.12109375, acc is 0.12109375,                    taks 0.9454002380371094 seconds
+2020-05-03 14:41:09,934 - RBF - INFO - test->loss 2.3016297038941413, in epoch 51, in step 199, in global step 25700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:41:10,768 - RBF - INFO - loss 2.2970151074645018, in epoch 51, in step 299, in global step 0.138671875, acc is 0.138671875,                    taks 0.8342001438140869 seconds
+2020-05-03 14:41:11,591 - RBF - INFO - loss 2.302960319424067, in epoch 51, in step 399, in global step 0.103515625, acc is 0.103515625,                    taks 0.823199987411499 seconds
+2020-05-03 14:41:11,597 - RBF - INFO - test->loss 2.3015973508807153, in epoch 51, in step 399, in global step 25900,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:41:12,416 - RBF - INFO - loss 2.303170824337186, in epoch 51, in step 499, in global step 0.09765625, acc is 0.09765625,                    taks 0.8190000057220459 seconds
+2020-05-03 14:41:12,416 - RBF - INFO - train epoch 52 of total 5000 epoches
+2020-05-03 14:41:13,232 - RBF - INFO - loss 2.3033487545061053, in epoch 52, in step 99, in global step 0.10546875, acc is 0.10546875,                    taks 0.8159999847412109 seconds
+2020-05-03 14:41:13,988 - RBF - INFO - loss 2.299543333728619, in epoch 52, in step 199, in global step 0.126953125, acc is 0.126953125,                    taks 0.7562000751495361 seconds
+2020-05-03 14:41:13,995 - RBF - INFO - test->loss 2.3015909177114464, in epoch 52, in step 199, in global step 26200,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:41:14,827 - RBF - INFO - loss 2.300848657265309, in epoch 52, in step 299, in global step 0.123046875, acc is 0.123046875,                    taks 0.831200122833252 seconds
+2020-05-03 14:41:15,571 - RBF - INFO - loss 2.3020999207938195, in epoch 52, in step 399, in global step 0.1171875, acc is 0.1171875,                    taks 0.7446000576019287 seconds
+2020-05-03 14:41:15,577 - RBF - INFO - test->loss 2.30157594167531, in epoch 52, in step 399, in global step 26400,                     acc is 0.103515625, taks 0.004999876022338867 seconds
+2020-05-03 14:41:16,270 - RBF - INFO - loss 2.2964201882313438, in epoch 52, in step 499, in global step 0.1328125, acc is 0.1328125,                    taks 0.693000078201294 seconds
+2020-05-03 14:41:16,270 - RBF - INFO - train epoch 53 of total 5000 epoches
+2020-05-03 14:41:16,956 - RBF - INFO - loss 2.299573864681329, in epoch 53, in step 99, in global step 0.109375, acc is 0.109375,                    taks 0.6861999034881592 seconds
+2020-05-03 14:41:17,637 - RBF - INFO - loss 2.298001528257008, in epoch 53, in step 199, in global step 0.126953125, acc is 0.126953125,                    taks 0.6810002326965332 seconds
+2020-05-03 14:41:17,643 - RBF - INFO - test->loss 2.3015836128218075, in epoch 53, in step 199, in global step 26700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:41:18,352 - RBF - INFO - loss 2.2997546117507026, in epoch 53, in step 299, in global step 0.13671875, acc is 0.13671875,                    taks 0.7089998722076416 seconds
+2020-05-03 14:41:19,012 - RBF - INFO - loss 2.301052998319434, in epoch 53, in step 399, in global step 0.09765625, acc is 0.09765625,                    taks 0.6592001914978027 seconds
+2020-05-03 14:41:19,019 - RBF - INFO - test->loss 2.301600967489568, in epoch 53, in step 399, in global step 26900,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:41:19,698 - RBF - INFO - loss 2.3003642387671794, in epoch 53, in step 499, in global step 0.10546875, acc is 0.10546875,                    taks 0.6798000335693359 seconds
+2020-05-03 14:41:19,699 - RBF - INFO - train epoch 54 of total 5000 epoches
+2020-05-03 14:41:20,412 - RBF - INFO - loss 2.301508671355491, in epoch 54, in step 99, in global step 0.11328125, acc is 0.11328125,                    taks 0.7135999202728271 seconds
+2020-05-03 14:41:21,102 - RBF - INFO - loss 2.3024659721856193, in epoch 54, in step 199, in global step 0.10546875, acc is 0.10546875,                    taks 0.690000057220459 seconds
+2020-05-03 14:41:21,108 - RBF - INFO - test->loss 2.301584616802159, in epoch 54, in step 199, in global step 27200,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:41:21,797 - RBF - INFO - loss 2.3008656862787733, in epoch 54, in step 299, in global step 0.10546875, acc is 0.10546875,                    taks 0.6893999576568604 seconds
+2020-05-03 14:41:22,490 - RBF - INFO - loss 2.298142925716453, in epoch 54, in step 399, in global step 0.140625, acc is 0.140625,                    taks 0.6921999454498291 seconds
+2020-05-03 14:41:22,496 - RBF - INFO - test->loss 2.301606497004973, in epoch 54, in step 399, in global step 27400,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:41:23,198 - RBF - INFO - loss 2.3036749811680926, in epoch 54, in step 499, in global step 0.1015625, acc is 0.1015625,                    taks 0.7026002407073975 seconds
+2020-05-03 14:41:23,198 - RBF - INFO - train epoch 55 of total 5000 epoches
+2020-05-03 14:41:23,836 - RBF - INFO - loss 2.299695347667177, in epoch 55, in step 99, in global step 0.125, acc is 0.125,                    taks 0.6381998062133789 seconds
+2020-05-03 14:41:24,525 - RBF - INFO - loss 2.2966500817292426, in epoch 55, in step 199, in global step 0.13671875, acc is 0.13671875,                    taks 0.6881999969482422 seconds
+2020-05-03 14:41:24,532 - RBF - INFO - test->loss 2.301593142114781, in epoch 55, in step 199, in global step 27700,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:41:25,235 - RBF - INFO - loss 2.2981171719037334, in epoch 55, in step 299, in global step 0.12109375, acc is 0.12109375,                    taks 0.7030000686645508 seconds
+2020-05-03 14:41:25,890 - RBF - INFO - loss 2.3030240895696874, in epoch 55, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 0.6549999713897705 seconds
+2020-05-03 14:41:25,896 - RBF - INFO - test->loss 2.3016155845715374, in epoch 55, in step 399, in global step 27900,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:41:26,565 - RBF - INFO - loss 2.3033383245858814, in epoch 55, in step 499, in global step 0.1015625, acc is 0.1015625,                    taks 0.6690003871917725 seconds
+2020-05-03 14:41:26,565 - RBF - INFO - train epoch 56 of total 5000 epoches
+2020-05-03 14:41:27,223 - RBF - INFO - loss 2.302508433940397, in epoch 56, in step 99, in global step 0.1015625, acc is 0.1015625,                    taks 0.6579997539520264 seconds
+2020-05-03 14:41:29,549 - RBF - INFO - loss 2.3019925831069257, in epoch 56, in step 199, in global step 0.099609375, acc is 0.099609375,                    taks 1.954200029373169 seconds
+2020-05-03 14:41:29,564 - RBF - INFO - test->loss 2.3015918147704415, in epoch 56, in step 199, in global step 28200,                     acc is 0.103515625, taks 0.015000104904174805 seconds
+2020-05-03 14:41:31,268 - RBF - INFO - loss 2.3052150601202843, in epoch 56, in step 299, in global step 0.08984375, acc is 0.08984375,                    taks 1.7045998573303223 seconds
+2020-05-03 14:41:32,994 - RBF - INFO - loss 2.298617916517172, in epoch 56, in step 399, in global step 0.109375, acc is 0.109375,                    taks 1.7249999046325684 seconds
+2020-05-03 14:41:33,008 - RBF - INFO - test->loss 2.3015815685730123, in epoch 56, in step 399, in global step 28400,                     acc is 0.103515625, taks 0.013000011444091797 seconds
+2020-05-03 14:41:34,774 - RBF - INFO - loss 2.2999503433288706, in epoch 56, in step 499, in global step 0.1171875, acc is 0.1171875,                    taks 1.7658002376556396 seconds
+2020-05-03 14:41:34,775 - RBF - INFO - train epoch 57 of total 5000 epoches
+2020-05-03 14:41:36,253 - RBF - INFO - loss 2.3008546385209145, in epoch 57, in step 99, in global step 0.130859375, acc is 0.130859375,                    taks 1.4779996871948242 seconds
+2020-05-03 14:41:37,498 - RBF - INFO - loss 2.3015476381499984, in epoch 57, in step 199, in global step 0.13671875, acc is 0.13671875,                    taks 1.2435996532440186 seconds
+2020-05-03 14:41:37,508 - RBF - INFO - test->loss 2.3015957005485035, in epoch 57, in step 199, in global step 28700,                     acc is 0.103515625, taks 0.010000228881835938 seconds
+2020-05-03 14:41:38,618 - RBF - INFO - loss 2.3021951842240247, in epoch 57, in step 299, in global step 0.111328125, acc is 0.111328125,                    taks 1.1096000671386719 seconds
+2020-05-03 14:41:39,664 - RBF - INFO - loss 2.3002035477609066, in epoch 57, in step 399, in global step 0.123046875, acc is 0.123046875,                    taks 1.045799970626831 seconds
+2020-05-03 14:41:39,671 - RBF - INFO - test->loss 2.3015911486333547, in epoch 57, in step 399, in global step 28900,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:41:40,593 - RBF - INFO - loss 2.302030359945877, in epoch 57, in step 499, in global step 0.09765625, acc is 0.09765625,                    taks 0.9214000701904297 seconds
+2020-05-03 14:41:40,594 - RBF - INFO - train epoch 58 of total 5000 epoches
+2020-05-03 14:41:41,487 - RBF - INFO - loss 2.3020708345561056, in epoch 58, in step 99, in global step 0.115234375, acc is 0.115234375,                    taks 0.8944001197814941 seconds
+2020-05-03 14:41:42,283 - RBF - INFO - loss 2.303252831689009, in epoch 58, in step 199, in global step 0.08984375, acc is 0.08984375,                    taks 0.7951998710632324 seconds
+2020-05-03 14:41:42,289 - RBF - INFO - test->loss 2.3016058364591867, in epoch 58, in step 199, in global step 29200,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:41:42,969 - RBF - INFO - loss 2.299698774203166, in epoch 58, in step 299, in global step 0.107421875, acc is 0.107421875,                    taks 0.679800271987915 seconds
+2020-05-03 14:41:43,691 - RBF - INFO - loss 2.304257412717485, in epoch 58, in step 399, in global step 0.107421875, acc is 0.107421875,                    taks 0.6892001628875732 seconds
+2020-05-03 14:41:43,697 - RBF - INFO - test->loss 2.3016056406946586, in epoch 58, in step 399, in global step 29400,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:41:44,457 - RBF - INFO - loss 2.302378600393169, in epoch 58, in step 499, in global step 0.091796875, acc is 0.091796875,                    taks 0.7602002620697021 seconds
+2020-05-03 14:41:44,457 - RBF - INFO - train epoch 59 of total 5000 epoches
+2020-05-03 14:41:45,211 - RBF - INFO - loss 2.3008671756385906, in epoch 59, in step 99, in global step 0.109375, acc is 0.109375,                    taks 0.7531998157501221 seconds
+2020-05-03 14:41:46,002 - RBF - INFO - loss 2.301886029176077, in epoch 59, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 0.7912001609802246 seconds
+2020-05-03 14:41:46,008 - RBF - INFO - test->loss 2.3015888452273767, in epoch 59, in step 199, in global step 29700,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:41:46,813 - RBF - INFO - loss 2.301364604600827, in epoch 59, in step 299, in global step 0.109375, acc is 0.109375,                    taks 0.8055999279022217 seconds
+2020-05-03 14:41:47,628 - RBF - INFO - loss 2.3033486530335154, in epoch 59, in step 399, in global step 0.111328125, acc is 0.111328125,                    taks 0.8141999244689941 seconds
+2020-05-03 14:41:47,634 - RBF - INFO - test->loss 2.3015921028170347, in epoch 59, in step 399, in global step 29900,                     acc is 0.103515625, taks 0.004999876022338867 seconds
+2020-05-03 14:41:48,444 - RBF - INFO - loss 2.3004551161867184, in epoch 59, in step 499, in global step 0.125, acc is 0.125,                    taks 0.8104000091552734 seconds
+2020-05-03 14:41:48,806 - RBF - INFO - Model saved in path: ckpt_RBF in epoch 59. acc is 0.125, loss is 2.3004551161867184
+2020-05-03 14:41:48,806 - RBF - INFO - train epoch 60 of total 5000 epoches
+2020-05-03 14:41:49,615 - RBF - INFO - loss 2.3018664712696113, in epoch 60, in step 99, in global step 0.119140625, acc is 0.119140625,                    taks 1.169800043106079 seconds
+2020-05-03 14:41:50,426 - RBF - INFO - loss 2.3017139501976143, in epoch 60, in step 199, in global step 0.099609375, acc is 0.099609375,                    taks 0.8115999698638916 seconds
+2020-05-03 14:41:50,434 - RBF - INFO - test->loss 2.301605935736754, in epoch 60, in step 199, in global step 30200,                     acc is 0.103515625, taks 0.0060002803802490234 seconds
+2020-05-03 14:41:51,194 - RBF - INFO - loss 2.30242593600041, in epoch 60, in step 299, in global step 0.109375, acc is 0.109375,                    taks 0.759199857711792 seconds
+2020-05-03 14:41:51,950 - RBF - INFO - loss 2.3024105203040333, in epoch 60, in step 399, in global step 0.103515625, acc is 0.103515625,                    taks 0.7563998699188232 seconds
+2020-05-03 14:41:51,955 - RBF - INFO - test->loss 2.301584927981323, in epoch 60, in step 399, in global step 30400,                     acc is 0.103515625, taks 0.00500035285949707 seconds
+2020-05-03 14:41:52,642 - RBF - INFO - loss 2.3019164788323523, in epoch 60, in step 499, in global step 0.095703125, acc is 0.095703125,                    taks 0.6872000694274902 seconds
+2020-05-03 14:41:52,642 - RBF - INFO - train epoch 61 of total 5000 epoches
+2020-05-03 14:41:53,338 - RBF - INFO - loss 2.301293993720419, in epoch 61, in step 99, in global step 0.103515625, acc is 0.103515625,                    taks 0.6955997943878174 seconds
+2020-05-03 14:41:54,037 - RBF - INFO - loss 2.2997757600733584, in epoch 61, in step 199, in global step 0.115234375, acc is 0.115234375,                    taks 0.699199914932251 seconds
+2020-05-03 14:41:54,043 - RBF - INFO - test->loss 2.3016041651846653, in epoch 61, in step 199, in global step 30700,                     acc is 0.103515625, taks 0.0060002803802490234 seconds
+2020-05-03 14:41:54,738 - RBF - INFO - loss 2.3043328182755562, in epoch 61, in step 299, in global step 0.0859375, acc is 0.0859375,                    taks 0.6949996948242188 seconds
+2020-05-03 14:41:55,460 - RBF - INFO - loss 2.3016293188292245, in epoch 61, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 0.7218000888824463 seconds
+2020-05-03 14:41:55,470 - RBF - INFO - test->loss 2.3016016731657674, in epoch 61, in step 399, in global step 30900,                     acc is 0.103515625, taks 0.009999990463256836 seconds
+2020-05-03 14:41:56,093 - RBF - INFO - loss 2.30396809812665, in epoch 61, in step 499, in global step 0.1171875, acc is 0.1171875,                    taks 0.6231999397277832 seconds
+2020-05-03 14:41:56,093 - RBF - INFO - train epoch 62 of total 5000 epoches
+2020-05-03 14:41:56,788 - RBF - INFO - loss 2.304964803339147, in epoch 62, in step 99, in global step 0.1015625, acc is 0.1015625,                    taks 0.695000171661377 seconds
+2020-05-03 14:41:57,470 - RBF - INFO - loss 2.3022186607526454, in epoch 62, in step 199, in global step 0.1015625, acc is 0.1015625,                    taks 0.6815998554229736 seconds
+2020-05-03 14:41:57,476 - RBF - INFO - test->loss 2.3015784082793838, in epoch 62, in step 199, in global step 31200,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:41:58,170 - RBF - INFO - loss 2.3038608158579743, in epoch 62, in step 299, in global step 0.09375, acc is 0.09375,                    taks 0.6946001052856445 seconds
+2020-05-03 14:41:58,875 - RBF - INFO - loss 2.3011837869402902, in epoch 62, in step 399, in global step 0.107421875, acc is 0.107421875,                    taks 0.7047998905181885 seconds
+2020-05-03 14:41:58,881 - RBF - INFO - test->loss 2.3016072741747813, in epoch 62, in step 399, in global step 31400,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:41:59,568 - RBF - INFO - loss 2.298916172078971, in epoch 62, in step 499, in global step 0.12890625, acc is 0.12890625,                    taks 0.6865999698638916 seconds
+2020-05-03 14:41:59,568 - RBF - INFO - train epoch 63 of total 5000 epoches
+2020-05-03 14:42:00,352 - RBF - INFO - loss 2.2952959331580622, in epoch 63, in step 99, in global step 0.142578125, acc is 0.142578125,                    taks 0.7839999198913574 seconds
+2020-05-03 14:42:01,073 - RBF - INFO - loss 2.2992963386281997, in epoch 63, in step 199, in global step 0.115234375, acc is 0.115234375,                    taks 0.7200000286102295 seconds
+2020-05-03 14:42:01,079 - RBF - INFO - test->loss 2.301600311955995, in epoch 63, in step 199, in global step 31700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:42:01,880 - RBF - INFO - loss 2.300240130821695, in epoch 63, in step 299, in global step 0.126953125, acc is 0.126953125,                    taks 0.8009998798370361 seconds
+2020-05-03 14:42:02,615 - RBF - INFO - loss 2.295999099326819, in epoch 63, in step 399, in global step 0.130859375, acc is 0.130859375,                    taks 0.7356002330780029 seconds
+2020-05-03 14:42:02,621 - RBF - INFO - test->loss 2.3015891403943485, in epoch 63, in step 399, in global step 31900,                     acc is 0.103515625, taks 0.004999876022338867 seconds
+2020-05-03 14:42:03,354 - RBF - INFO - loss 2.3039183693661616, in epoch 63, in step 499, in global step 0.09765625, acc is 0.09765625,                    taks 0.7324001789093018 seconds
+2020-05-03 14:42:03,354 - RBF - INFO - train epoch 64 of total 5000 epoches
+2020-05-03 14:42:04,101 - RBF - INFO - loss 2.2976707558720197, in epoch 64, in step 99, in global step 0.138671875, acc is 0.138671875,                    taks 0.746999979019165 seconds
+2020-05-03 14:42:04,901 - RBF - INFO - loss 2.2972822325745623, in epoch 64, in step 199, in global step 0.138671875, acc is 0.138671875,                    taks 0.8000001907348633 seconds
+2020-05-03 14:42:04,909 - RBF - INFO - test->loss 2.301590154003427, in epoch 64, in step 199, in global step 32200,                     acc is 0.103515625, taks 0.006999969482421875 seconds
+2020-05-03 14:42:05,625 - RBF - INFO - loss 2.3019292812095857, in epoch 64, in step 299, in global step 0.125, acc is 0.125,                    taks 0.7160000801086426 seconds
+2020-05-03 14:42:06,239 - RBF - INFO - loss 2.3018856464778965, in epoch 64, in step 399, in global step 0.095703125, acc is 0.095703125,                    taks 0.6141996383666992 seconds
+2020-05-03 14:42:06,245 - RBF - INFO - test->loss 2.301612871670409, in epoch 64, in step 399, in global step 32400,                     acc is 0.103515625, taks 0.0060002803802490234 seconds
+2020-05-03 14:42:06,937 - RBF - INFO - loss 2.3010851962992067, in epoch 64, in step 499, in global step 0.119140625, acc is 0.119140625,                    taks 0.6918001174926758 seconds
+2020-05-03 14:42:06,937 - RBF - INFO - train epoch 65 of total 5000 epoches
+2020-05-03 14:42:07,624 - RBF - INFO - loss 2.3018809118078964, in epoch 65, in step 99, in global step 0.09765625, acc is 0.09765625,                    taks 0.6869997978210449 seconds
+2020-05-03 14:42:08,325 - RBF - INFO - loss 2.300699351748424, in epoch 65, in step 199, in global step 0.1171875, acc is 0.1171875,                    taks 0.7010002136230469 seconds
+2020-05-03 14:42:08,331 - RBF - INFO - test->loss 2.3016161187066375, in epoch 65, in step 199, in global step 32700,                     acc is 0.103515625, taks 0.00599980354309082 seconds
+2020-05-03 14:42:09,030 - RBF - INFO - loss 2.295933217535113, in epoch 65, in step 299, in global step 0.150390625, acc is 0.150390625,                    taks 0.699199914932251 seconds
+2020-05-03 14:42:09,715 - RBF - INFO - loss 2.3077394451360917, in epoch 65, in step 399, in global step 0.076171875, acc is 0.076171875,                    taks 0.6844000816345215 seconds
+2020-05-03 14:42:09,721 - RBF - INFO - test->loss 2.3015914782374405, in epoch 65, in step 399, in global step 32900,                     acc is 0.103515625, taks 0.006000041961669922 seconds
+2020-05-03 14:42:10,422 - RBF - INFO - loss 2.298827055688018, in epoch 65, in step 499, in global step 0.138671875, acc is 0.138671875,                    taks 0.7010002136230469 seconds
+2020-05-03 14:42:10,422 - RBF - INFO - train epoch 66 of total 5000 epoches

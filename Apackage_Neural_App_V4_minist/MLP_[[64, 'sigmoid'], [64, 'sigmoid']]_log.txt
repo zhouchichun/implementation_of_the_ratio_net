@@ -1,0 +1,202 @@
+2020-05-03 15:04:45,614 - MLP - INFO - now initialize the net with para:
+2020-05-03 15:04:45,614 - MLP - INFO - CKPT
+2020-05-03 15:04:45,614 - MLP - INFO - ckpt
+2020-05-03 15:04:45,614 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,614 - MLP - INFO - BATCHSIZE
+2020-05-03 15:04:45,615 - MLP - INFO - 512
+2020-05-03 15:04:45,615 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,615 - MLP - INFO - MAX_ITER
+2020-05-03 15:04:45,615 - MLP - INFO - 5000
+2020-05-03 15:04:45,615 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,615 - MLP - INFO - STEP_EACH_ITER
+2020-05-03 15:04:45,615 - MLP - INFO - 500
+2020-05-03 15:04:45,615 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,615 - MLP - INFO - STEP_SHOW_train
+2020-05-03 15:04:45,616 - MLP - INFO - 100
+2020-05-03 15:04:45,616 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,616 - MLP - INFO - STEP_SHOW_test
+2020-05-03 15:04:45,616 - MLP - INFO - 200
+2020-05-03 15:04:45,616 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,616 - MLP - INFO - EPOCH_SAVE
+2020-05-03 15:04:45,616 - MLP - INFO - 10
+2020-05-03 15:04:45,616 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,616 - MLP - INFO - LEARNING_RATE
+2020-05-03 15:04:45,616 - MLP - INFO - 0.0001
+2020-05-03 15:04:45,616 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,616 - MLP - INFO - bound_weight
+2020-05-03 15:04:45,617 - MLP - INFO - 1
+2020-05-03 15:04:45,617 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,617 - MLP - INFO - step_unbound
+2020-05-03 15:04:45,617 - MLP - INFO - 5
+2020-05-03 15:04:45,617 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,617 - MLP - INFO - decay
+2020-05-03 15:04:45,617 - MLP - INFO - False
+2020-05-03 15:04:45,617 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,617 - MLP - INFO - test_line
+2020-05-03 15:04:45,617 - MLP - INFO - False
+2020-05-03 15:04:45,617 - MLP - INFO - -----------------------------
+2020-05-03 15:04:45,618 - MLP - INFO - is_plot
+2020-05-03 15:04:45,618 - MLP - INFO - True
+2020-05-03 15:04:45,618 - MLP - INFO - -----------------------------
+2020-05-03 15:04:47,598 - MLP - INFO - openning sess
+2020-05-03 15:04:47,747 - MLP - INFO - building net
+2020-05-03 15:04:48,018 - MLP - INFO - building opt
+2020-05-03 15:04:48,111 - MLP - INFO - net initializing
+2020-05-03 15:04:49,980 - MLP - INFO - train epoch 0 of total 5000 epoches
+2020-05-03 15:04:51,000 - MLP - INFO - loss 2.8089788070574633, in epoch 0, in step 99, in global step 0.1015625, acc is 0.1015625,                    taks 1.0209999084472656 seconds
+2020-05-03 15:04:51,968 - MLP - INFO - loss 2.5739213594881236, in epoch 0, in step 199, in global step 0.080078125, acc is 0.080078125,                    taks 0.9682002067565918 seconds
+2020-05-03 15:04:51,996 - MLP - INFO - test->loss 2.5393893212045064, in epoch 0, in step 199, in global step 200,                     acc is 0.107421875, taks 0.0280001163482666 seconds
+2020-05-03 15:04:52,968 - MLP - INFO - loss 2.392644406496445, in epoch 0, in step 299, in global step 0.11328125, acc is 0.11328125,                    taks 0.9723997116088867 seconds
+2020-05-03 15:04:53,943 - MLP - INFO - loss 2.365303582186371, in epoch 0, in step 399, in global step 0.08984375, acc is 0.08984375,                    taks 0.9750001430511475 seconds
+2020-05-03 15:04:53,953 - MLP - INFO - test->loss 2.355792492003069, in epoch 0, in step 399, in global step 400,                     acc is 0.107421875, taks 0.009999752044677734 seconds
+2020-05-03 15:04:54,924 - MLP - INFO - loss 2.332924709885146, in epoch 0, in step 499, in global step 0.10546875, acc is 0.10546875,                    taks 0.9702000617980957 seconds
+2020-05-03 15:04:54,924 - MLP - INFO - train epoch 1 of total 5000 epoches
+2020-05-03 15:04:55,819 - MLP - INFO - loss 2.297899720991115, in epoch 1, in step 99, in global step 0.095703125, acc is 0.095703125,                    taks 0.8949999809265137 seconds
+2020-05-03 15:04:56,621 - MLP - INFO - loss 2.295058204978462, in epoch 1, in step 199, in global step 0.134765625, acc is 0.134765625,                    taks 0.8020000457763672 seconds
+2020-05-03 15:04:56,629 - MLP - INFO - test->loss 2.2986692692103716, in epoch 1, in step 199, in global step 700,                     acc is 0.107421875, taks 0.00800013542175293 seconds
+2020-05-03 15:04:57,513 - MLP - INFO - loss 2.3021796011929947, in epoch 1, in step 299, in global step 0.0859375, acc is 0.0859375,                    taks 0.8824000358581543 seconds
+2020-05-03 15:04:58,364 - MLP - INFO - loss 2.30229513370801, in epoch 1, in step 399, in global step 0.095703125, acc is 0.095703125,                    taks 0.8513998985290527 seconds
+2020-05-03 15:04:58,364 - MLP - INFO - test->loss 2.2984280718967405, in epoch 1, in step 399, in global step 900,                     acc is 0.109375, taks 0.0 seconds
+2020-05-03 15:04:59,168 - MLP - INFO - loss 2.299426780894956, in epoch 1, in step 499, in global step 0.115234375, acc is 0.115234375,                    taks 0.8036000728607178 seconds
+2020-05-03 15:04:59,169 - MLP - INFO - train epoch 2 of total 5000 epoches
+2020-05-03 15:04:59,977 - MLP - INFO - loss 2.30148018587108, in epoch 2, in step 99, in global step 0.103515625, acc is 0.103515625,                    taks 0.8067998886108398 seconds
+2020-05-03 15:05:00,783 - MLP - INFO - loss 2.304981909038079, in epoch 2, in step 199, in global step 0.09375, acc is 0.09375,                    taks 0.8061997890472412 seconds
+2020-05-03 15:05:00,793 - MLP - INFO - test->loss 2.2949393334959995, in epoch 2, in step 199, in global step 1200,                     acc is 0.109375, taks 0.010000228881835938 seconds
+2020-05-03 15:05:01,599 - MLP - INFO - loss 2.3036256498325214, in epoch 2, in step 299, in global step 0.10546875, acc is 0.10546875,                    taks 0.8062000274658203 seconds
+2020-05-03 15:05:02,359 - MLP - INFO - loss 2.301136753684745, in epoch 2, in step 399, in global step 0.12109375, acc is 0.12109375,                    taks 0.7599999904632568 seconds
+2020-05-03 15:05:02,366 - MLP - INFO - test->loss 2.2972583052418445, in epoch 2, in step 399, in global step 1400,                     acc is 0.109375, taks 0.0069997310638427734 seconds
+2020-05-03 15:05:03,173 - MLP - INFO - loss 2.305140215555609, in epoch 2, in step 499, in global step 0.08984375, acc is 0.08984375,                    taks 0.8071999549865723 seconds
+2020-05-03 15:05:03,173 - MLP - INFO - train epoch 3 of total 5000 epoches
+2020-05-03 15:05:03,977 - MLP - INFO - loss 2.301166255769054, in epoch 3, in step 99, in global step 0.107421875, acc is 0.107421875,                    taks 0.8042001724243164 seconds
+2020-05-03 15:05:04,741 - MLP - INFO - loss 2.2999034801072886, in epoch 3, in step 199, in global step 0.09765625, acc is 0.09765625,                    taks 0.7640001773834229 seconds
+2020-05-03 15:05:04,747 - MLP - INFO - test->loss 2.2963449655318526, in epoch 3, in step 199, in global step 1700,                     acc is 0.109375, taks 0.00599980354309082 seconds
+2020-05-03 15:05:05,361 - MLP - INFO - loss 2.3014859446639306, in epoch 3, in step 299, in global step 0.1171875, acc is 0.1171875,                    taks 0.6140000820159912 seconds
+2020-05-03 15:05:06,018 - MLP - INFO - loss 2.303704612089547, in epoch 3, in step 399, in global step 0.107421875, acc is 0.107421875,                    taks 0.6561999320983887 seconds
+2020-05-03 15:05:06,028 - MLP - INFO - test->loss 2.297080984358765, in epoch 3, in step 399, in global step 1900,                     acc is 0.109375, taks 0.009000062942504883 seconds
+2020-05-03 15:05:06,648 - MLP - INFO - loss 2.304486745908166, in epoch 3, in step 499, in global step 0.10546875, acc is 0.10546875,                    taks 0.619999885559082 seconds
+2020-05-03 15:05:06,648 - MLP - INFO - train epoch 4 of total 5000 epoches
+2020-05-03 15:05:07,228 - MLP - INFO - loss 2.3019401027556396, in epoch 4, in step 99, in global step 0.1171875, acc is 0.1171875,                    taks 0.5802001953125 seconds
+2020-05-03 15:05:07,793 - MLP - INFO - loss 2.3029516810329786, in epoch 4, in step 199, in global step 0.103515625, acc is 0.103515625,                    taks 0.5651998519897461 seconds
+2020-05-03 15:05:07,798 - MLP - INFO - test->loss 2.2981311043779513, in epoch 4, in step 199, in global step 2200,                     acc is 0.109375, taks 0.004999876022338867 seconds
+2020-05-03 15:05:08,343 - MLP - INFO - loss 2.3031684063285454, in epoch 4, in step 299, in global step 0.1171875, acc is 0.1171875,                    taks 0.5450003147125244 seconds
+2020-05-03 15:05:08,877 - MLP - INFO - loss 2.3007744845811473, in epoch 4, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 0.5334000587463379 seconds
+2020-05-03 15:05:08,883 - MLP - INFO - test->loss 2.298186119585885, in epoch 4, in step 399, in global step 2400,                     acc is 0.109375, taks 0.004999876022338867 seconds
+2020-05-03 15:05:09,436 - MLP - INFO - loss 2.303430321183128, in epoch 4, in step 499, in global step 0.109375, acc is 0.109375,                    taks 0.5526001453399658 seconds
+2020-05-03 15:05:09,436 - MLP - INFO - train epoch 5 of total 5000 epoches
+2020-05-03 15:05:10,061 - MLP - INFO - loss 2.299700206450417, in epoch 5, in step 99, in global step 0.11328125, acc is 0.11328125,                    taks 0.6247999668121338 seconds
+2020-05-03 15:05:10,681 - MLP - INFO - loss 2.3010481572117594, in epoch 5, in step 199, in global step 0.119140625, acc is 0.119140625,                    taks 0.6201999187469482 seconds
+2020-05-03 15:05:10,687 - MLP - INFO - test->loss 2.2963091673363425, in epoch 5, in step 199, in global step 2700,                     acc is 0.109375, taks 0.0060002803802490234 seconds
+2020-05-03 15:05:11,241 - MLP - INFO - loss 2.301156886228975, in epoch 5, in step 299, in global step 0.126953125, acc is 0.126953125,                    taks 0.553999662399292 seconds
+2020-05-03 15:05:11,870 - MLP - INFO - loss 2.3030034059662943, in epoch 5, in step 399, in global step 0.111328125, acc is 0.111328125,                    taks 0.628000020980835 seconds
+2020-05-03 15:05:11,875 - MLP - INFO - test->loss 2.2968672005515214, in epoch 5, in step 399, in global step 2900,                     acc is 0.109375, taks 0.00500035285949707 seconds
+2020-05-03 15:05:12,390 - MLP - INFO - loss 2.302160260093465, in epoch 5, in step 499, in global step 0.109375, acc is 0.109375,                    taks 0.5139997005462646 seconds
+2020-05-03 15:05:12,390 - MLP - INFO - train epoch 6 of total 5000 epoches
+2020-05-03 15:05:12,921 - MLP - INFO - loss 2.30054530395683, in epoch 6, in step 99, in global step 0.09375, acc is 0.09375,                    taks 0.5310001373291016 seconds
+2020-05-03 15:05:13,461 - MLP - INFO - loss 2.3004069703805485, in epoch 6, in step 199, in global step 0.1171875, acc is 0.1171875,                    taks 0.5401999950408936 seconds
+2020-05-03 15:05:13,467 - MLP - INFO - test->loss 2.2970242610202405, in epoch 6, in step 199, in global step 3200,                     acc is 0.109375, taks 0.006000041961669922 seconds
+2020-05-03 15:05:14,070 - MLP - INFO - loss 2.2998970680027693, in epoch 6, in step 299, in global step 0.12109375, acc is 0.12109375,                    taks 0.6031999588012695 seconds
+2020-05-03 15:05:14,705 - MLP - INFO - loss 2.3013766148071717, in epoch 6, in step 399, in global step 0.119140625, acc is 0.119140625,                    taks 0.6344001293182373 seconds
+2020-05-03 15:05:14,712 - MLP - INFO - test->loss 2.2965081737618194, in epoch 6, in step 399, in global step 3400,                     acc is 0.109375, taks 0.006999969482421875 seconds
+2020-05-03 15:05:15,284 - MLP - INFO - loss 2.2985211060650097, in epoch 6, in step 499, in global step 0.12890625, acc is 0.12890625,                    taks 0.5720000267028809 seconds
+2020-05-03 15:05:15,284 - MLP - INFO - train epoch 7 of total 5000 epoches
+2020-05-03 15:05:15,932 - MLP - INFO - loss 2.300315663919126, in epoch 7, in step 99, in global step 0.1484375, acc is 0.1484375,                    taks 0.6482000350952148 seconds
+2020-05-03 15:05:16,542 - MLP - INFO - loss 2.2972136436438895, in epoch 7, in step 199, in global step 0.119140625, acc is 0.119140625,                    taks 0.6099998950958252 seconds
+2020-05-03 15:05:16,550 - MLP - INFO - test->loss 2.2996941205106483, in epoch 7, in step 199, in global step 3700,                     acc is 0.109375, taks 0.007999897003173828 seconds
+2020-05-03 15:05:17,204 - MLP - INFO - loss 2.302289867630139, in epoch 7, in step 299, in global step 0.109375, acc is 0.109375,                    taks 0.6542000770568848 seconds
+2020-05-03 15:05:17,849 - MLP - INFO - loss 2.299640662779792, in epoch 7, in step 399, in global step 0.111328125, acc is 0.111328125,                    taks 0.6444001197814941 seconds
+2020-05-03 15:05:17,855 - MLP - INFO - test->loss 2.2969812037781807, in epoch 7, in step 399, in global step 3900,                     acc is 0.109375, taks 0.00599980354309082 seconds
+2020-05-03 15:05:18,476 - MLP - INFO - loss 2.305840342285904, in epoch 7, in step 499, in global step 0.109375, acc is 0.109375,                    taks 0.6191999912261963 seconds
+2020-05-03 15:05:18,476 - MLP - INFO - train epoch 8 of total 5000 epoches
+2020-05-03 15:05:19,110 - MLP - INFO - loss 2.2965153945393784, in epoch 8, in step 99, in global step 0.123046875, acc is 0.123046875,                    taks 0.6343998908996582 seconds
+2020-05-03 15:05:19,677 - MLP - INFO - loss 2.2985951491402874, in epoch 8, in step 199, in global step 0.1171875, acc is 0.1171875,                    taks 0.5671999454498291 seconds
+2020-05-03 15:05:19,684 - MLP - INFO - test->loss 2.2960218335075395, in epoch 8, in step 199, in global step 4200,                     acc is 0.109375, taks 0.006999969482421875 seconds
+2020-05-03 15:05:20,337 - MLP - INFO - loss 2.300699105521078, in epoch 8, in step 299, in global step 0.107421875, acc is 0.107421875,                    taks 0.6521999835968018 seconds
+2020-05-03 15:05:20,991 - MLP - INFO - loss 2.3013220087763027, in epoch 8, in step 399, in global step 0.1171875, acc is 0.1171875,                    taks 0.6540000438690186 seconds
+2020-05-03 15:05:20,998 - MLP - INFO - test->loss 2.2980789527481242, in epoch 8, in step 399, in global step 4400,                     acc is 0.109375, taks 0.006999969482421875 seconds
+2020-05-03 15:05:21,631 - MLP - INFO - loss 2.2996614445864996, in epoch 8, in step 499, in global step 0.12890625, acc is 0.12890625,                    taks 0.6322000026702881 seconds
+2020-05-03 15:05:21,631 - MLP - INFO - train epoch 9 of total 5000 epoches
+2020-05-03 15:05:22,288 - MLP - INFO - loss 2.303897229209543, in epoch 9, in step 99, in global step 0.111328125, acc is 0.111328125,                    taks 0.6572000980377197 seconds
+2020-05-03 15:05:22,938 - MLP - INFO - loss 2.303696715069874, in epoch 9, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 0.6502001285552979 seconds
+2020-05-03 15:05:22,944 - MLP - INFO - test->loss 2.2969843799001968, in epoch 9, in step 199, in global step 4700,                     acc is 0.109375, taks 0.004999876022338867 seconds
+2020-05-03 15:05:23,563 - MLP - INFO - loss 2.3068510029762512, in epoch 9, in step 299, in global step 0.095703125, acc is 0.095703125,                    taks 0.6189999580383301 seconds
+2020-05-03 15:05:24,158 - MLP - INFO - loss 2.3035627681200097, in epoch 9, in step 399, in global step 0.103515625, acc is 0.103515625,                    taks 0.5950002670288086 seconds
+2020-05-03 15:05:24,164 - MLP - INFO - test->loss 2.2959443092521123, in epoch 9, in step 399, in global step 4900,                     acc is 0.109375, taks 0.00599980354309082 seconds
+2020-05-03 15:05:24,787 - MLP - INFO - loss 2.302753883749123, in epoch 9, in step 499, in global step 0.119140625, acc is 0.119140625,                    taks 0.6230001449584961 seconds
+2020-05-03 15:05:25,071 - MLP - INFO - Model saved in path: ckpt_MLP in epoch 9. acc is 0.119140625, loss is 2.302753883749123
+2020-05-03 15:05:25,072 - MLP - INFO - train epoch 10 of total 5000 epoches
+2020-05-03 15:05:26,917 - MLP - INFO - loss 2.304160902564262, in epoch 10, in step 99, in global step 0.103515625, acc is 0.103515625,                    taks 2.129999876022339 seconds
+2020-05-03 15:05:28,297 - MLP - INFO - loss 2.3053234451720073, in epoch 10, in step 199, in global step 0.11328125, acc is 0.11328125,                    taks 1.3799998760223389 seconds
+2020-05-03 15:05:28,308 - MLP - INFO - test->loss 2.2972811410350173, in epoch 10, in step 199, in global step 5200,                     acc is 0.109375, taks 0.01100015640258789 seconds
+2020-05-03 15:05:29,553 - MLP - INFO - loss 2.2946208429875874, in epoch 10, in step 299, in global step 0.138671875, acc is 0.138671875,                    taks 1.244999885559082 seconds
+2020-05-03 15:05:30,704 - MLP - INFO - loss 2.305300987169864, in epoch 10, in step 399, in global step 0.109375, acc is 0.109375,                    taks 1.1507999897003174 seconds
+2020-05-03 15:05:30,714 - MLP - INFO - test->loss 2.2979464487241374, in epoch 10, in step 399, in global step 5400,                     acc is 0.109375, taks 0.009999990463256836 seconds
+2020-05-03 15:05:31,840 - MLP - INFO - loss 2.302385396167807, in epoch 10, in step 499, in global step 0.099609375, acc is 0.099609375,                    taks 1.1256000995635986 seconds
+2020-05-03 15:05:31,841 - MLP - INFO - train epoch 11 of total 5000 epoches
+2020-05-03 15:05:32,747 - MLP - INFO - loss 2.299005200102866, in epoch 11, in step 99, in global step 0.1171875, acc is 0.1171875,                    taks 0.9059998989105225 seconds
+2020-05-03 15:05:33,732 - MLP - INFO - loss 2.298849349126814, in epoch 11, in step 199, in global step 0.126953125, acc is 0.126953125,                    taks 0.9844000339508057 seconds
+2020-05-03 15:05:33,742 - MLP - INFO - test->loss 2.297778533703371, in epoch 11, in step 199, in global step 5700,                     acc is 0.109375, taks 0.009999752044677734 seconds
+2020-05-03 15:05:34,717 - MLP - INFO - loss 2.3028559018768844, in epoch 11, in step 299, in global step 0.1015625, acc is 0.1015625,                    taks 0.9748003482818604 seconds
+2020-05-03 15:05:35,698 - MLP - INFO - loss 2.3031373135890005, in epoch 11, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 0.9805998802185059 seconds
+2020-05-03 15:05:35,745 - MLP - INFO - test->loss 2.297574255119954, in epoch 11, in step 399, in global step 5900,                     acc is 0.109375, taks 0.012000083923339844 seconds
+2020-05-03 15:05:36,733 - MLP - INFO - loss 2.3048834732676977, in epoch 11, in step 499, in global step 0.095703125, acc is 0.095703125,                    taks 0.9866001605987549 seconds
+2020-05-03 15:05:36,734 - MLP - INFO - train epoch 12 of total 5000 epoches
+2020-05-03 15:05:37,716 - MLP - INFO - loss 2.302916602317286, in epoch 12, in step 99, in global step 0.099609375, acc is 0.099609375,                    taks 0.9829998016357422 seconds
+2020-05-03 15:05:38,752 - MLP - INFO - loss 2.3025362123982442, in epoch 12, in step 199, in global step 0.103515625, acc is 0.103515625,                    taks 1.0099999904632568 seconds
+2020-05-03 15:05:38,764 - MLP - INFO - test->loss 2.2972806391809, in epoch 12, in step 199, in global step 6200,                     acc is 0.109375, taks 0.011999845504760742 seconds
+2020-05-03 15:05:39,785 - MLP - INFO - loss 2.2973438705856344, in epoch 12, in step 299, in global step 0.123046875, acc is 0.123046875,                    taks 1.0216000080108643 seconds
+2020-05-03 15:05:40,745 - MLP - INFO - loss 2.2995325866178717, in epoch 12, in step 399, in global step 0.126953125, acc is 0.126953125,                    taks 0.9600000381469727 seconds
+2020-05-03 15:05:40,757 - MLP - INFO - test->loss 2.2973531641325406, in epoch 12, in step 399, in global step 6400,                     acc is 0.109375, taks 0.012000083923339844 seconds
+2020-05-03 15:05:41,595 - MLP - INFO - loss 2.3009868208377187, in epoch 12, in step 499, in global step 0.099609375, acc is 0.099609375,                    taks 0.8363997936248779 seconds
+2020-05-03 15:05:41,595 - MLP - INFO - train epoch 13 of total 5000 epoches
+2020-05-03 15:05:42,420 - MLP - INFO - loss 2.303325159193326, in epoch 13, in step 99, in global step 0.09765625, acc is 0.09765625,                    taks 0.8252003192901611 seconds
+2020-05-03 15:05:43,257 - MLP - INFO - loss 2.3045780546473806, in epoch 13, in step 199, in global step 0.10546875, acc is 0.10546875,                    taks 0.8369998931884766 seconds
+2020-05-03 15:05:43,266 - MLP - INFO - test->loss 2.2955392051101438, in epoch 13, in step 199, in global step 6700,                     acc is 0.109375, taks 0.008999824523925781 seconds
+2020-05-03 15:05:44,101 - MLP - INFO - loss 2.2992766233840882, in epoch 13, in step 299, in global step 0.1328125, acc is 0.1328125,                    taks 0.8352000713348389 seconds
+2020-05-03 15:05:44,866 - MLP - INFO - loss 2.2996360169918644, in epoch 13, in step 399, in global step 0.1171875, acc is 0.1171875,                    taks 0.7649998664855957 seconds
+2020-05-03 15:05:44,875 - MLP - INFO - test->loss 2.296787713996631, in epoch 13, in step 399, in global step 6900,                     acc is 0.109375, taks 0.009000301361083984 seconds
+2020-05-03 15:05:45,705 - MLP - INFO - loss 2.297085683262562, in epoch 13, in step 499, in global step 0.130859375, acc is 0.130859375,                    taks 0.8294000625610352 seconds
+2020-05-03 15:05:45,709 - MLP - INFO - train epoch 14 of total 5000 epoches
+2020-05-03 15:05:46,544 - MLP - INFO - loss 2.299109647372325, in epoch 14, in step 99, in global step 0.09765625, acc is 0.09765625,                    taks 0.8349997997283936 seconds
+2020-05-03 15:05:47,383 - MLP - INFO - loss 2.305245556843211, in epoch 14, in step 199, in global step 0.111328125, acc is 0.111328125,                    taks 0.8386001586914062 seconds
+2020-05-03 15:05:47,391 - MLP - INFO - test->loss 2.2965144890376017, in epoch 14, in step 199, in global step 7200,                     acc is 0.109375, taks 0.00800013542175293 seconds
+2020-05-03 15:05:48,230 - MLP - INFO - loss 2.299821973140518, in epoch 14, in step 299, in global step 0.12109375, acc is 0.12109375,                    taks 0.8381998538970947 seconds
+2020-05-03 15:05:49,059 - MLP - INFO - loss 2.3027690178119617, in epoch 14, in step 399, in global step 0.109375, acc is 0.109375,                    taks 0.8289999961853027 seconds
+2020-05-03 15:05:49,070 - MLP - INFO - test->loss 2.297142045582863, in epoch 14, in step 399, in global step 7400,                     acc is 0.109375, taks 0.010000228881835938 seconds
+2020-05-03 15:05:49,991 - MLP - INFO - loss 2.302919147410836, in epoch 14, in step 499, in global step 0.103515625, acc is 0.103515625,                    taks 0.9203999042510986 seconds
+2020-05-03 15:05:49,991 - MLP - INFO - train epoch 15 of total 5000 epoches
+2020-05-03 15:05:50,840 - MLP - INFO - loss 2.3026841790974695, in epoch 15, in step 99, in global step 0.109375, acc is 0.109375,                    taks 0.8489999771118164 seconds
+2020-05-03 15:05:51,761 - MLP - INFO - loss 2.2989099790815537, in epoch 15, in step 199, in global step 0.111328125, acc is 0.111328125,                    taks 0.9210000038146973 seconds
+2020-05-03 15:05:51,770 - MLP - INFO - test->loss 2.2996850338804915, in epoch 15, in step 199, in global step 7700,                     acc is 0.109375, taks 0.009000062942504883 seconds
+2020-05-03 15:05:52,701 - MLP - INFO - loss 2.3011926819469872, in epoch 15, in step 299, in global step 0.115234375, acc is 0.115234375,                    taks 0.931800127029419 seconds
+2020-05-03 15:05:53,621 - MLP - INFO - loss 2.302216817862989, in epoch 15, in step 399, in global step 0.103515625, acc is 0.103515625,                    taks 0.9195997714996338 seconds
+2020-05-03 15:05:53,630 - MLP - INFO - test->loss 2.297144055847011, in epoch 15, in step 399, in global step 7900,                     acc is 0.109375, taks 0.007999897003173828 seconds
+2020-05-03 15:05:54,502 - MLP - INFO - loss 2.303762902052372, in epoch 15, in step 499, in global step 0.087890625, acc is 0.087890625,                    taks 0.8718001842498779 seconds
+2020-05-03 15:05:54,633 - MLP - INFO - train epoch 16 of total 5000 epoches
+2020-05-03 15:05:56,411 - MLP - INFO - loss 2.3017218206853576, in epoch 16, in step 99, in global step 0.095703125, acc is 0.095703125,                    taks 1.7781999111175537 seconds
+2020-05-03 15:05:57,961 - MLP - INFO - loss 2.3030721177651463, in epoch 16, in step 199, in global step 0.142578125, acc is 0.142578125,                    taks 1.5382001399993896 seconds
+2020-05-03 15:05:57,976 - MLP - INFO - test->loss 2.296396553799117, in epoch 16, in step 199, in global step 8200,                     acc is 0.109375, taks 0.014999628067016602 seconds
+2020-05-03 15:05:59,342 - MLP - INFO - loss 2.3005786898419203, in epoch 16, in step 299, in global step 0.115234375, acc is 0.115234375,                    taks 1.3642001152038574 seconds
+2020-05-03 15:06:00,681 - MLP - INFO - loss 2.3014198705090396, in epoch 16, in step 399, in global step 0.10546875, acc is 0.10546875,                    taks 1.339599847793579 seconds
+2020-05-03 15:06:00,681 - MLP - INFO - test->loss 2.2981459828373225, in epoch 16, in step 399, in global step 8400,                     acc is 0.109375, taks 0.0 seconds
+2020-05-03 15:06:01,955 - MLP - INFO - loss 2.3000732433183146, in epoch 16, in step 499, in global step 0.115234375, acc is 0.115234375,                    taks 1.2738001346588135 seconds
+2020-05-03 15:06:01,956 - MLP - INFO - train epoch 17 of total 5000 epoches
+2020-05-03 15:06:03,135 - MLP - INFO - loss 2.3007485991803645, in epoch 17, in step 99, in global step 0.111328125, acc is 0.111328125,                    taks 1.1801998615264893 seconds
+2020-05-03 15:06:04,158 - MLP - INFO - loss 2.30311610095253, in epoch 17, in step 199, in global step 0.087890625, acc is 0.087890625,                    taks 1.022400140762329 seconds
+2020-05-03 15:06:04,169 - MLP - INFO - test->loss 2.2960227826204753, in epoch 17, in step 199, in global step 8700,                     acc is 0.109375, taks 0.010999917984008789 seconds
+2020-05-03 15:06:05,115 - MLP - INFO - loss 2.297634955787583, in epoch 17, in step 299, in global step 0.109375, acc is 0.109375,                    taks 0.9467999935150146 seconds
+2020-05-03 15:06:06,118 - MLP - INFO - loss 2.3029324626202032, in epoch 17, in step 399, in global step 0.1015625, acc is 0.1015625,                    taks 1.0027999877929688 seconds
+2020-05-03 15:06:06,127 - MLP - INFO - test->loss 2.297493343896624, in epoch 17, in step 399, in global step 8900,                     acc is 0.109375, taks 0.009000062942504883 seconds
+2020-05-03 15:06:06,904 - MLP - INFO - loss 2.303365424430317, in epoch 17, in step 499, in global step 0.0859375, acc is 0.0859375,                    taks 0.7769999504089355 seconds
+2020-05-03 15:06:06,905 - MLP - INFO - train epoch 18 of total 5000 epoches
+2020-05-03 15:06:07,743 - MLP - INFO - loss 2.3005359946001933, in epoch 18, in step 99, in global step 0.130859375, acc is 0.130859375,                    taks 0.8366000652313232 seconds
+2020-05-03 15:06:08,568 - MLP - INFO - loss 2.2991876232090496, in epoch 18, in step 199, in global step 0.12890625, acc is 0.12890625,                    taks 0.825200080871582 seconds
+2020-05-03 15:06:08,577 - MLP - INFO - test->loss 2.2987976793245286, in epoch 18, in step 199, in global step 9200,                     acc is 0.109375, taks 0.009000062942504883 seconds
+2020-05-03 15:06:09,427 - MLP - INFO - loss 2.3000952680071745, in epoch 18, in step 299, in global step 0.10546875, acc is 0.10546875,                    taks 0.8497998714447021 seconds
+2020-05-03 15:06:10,345 - MLP - INFO - loss 2.303338020271293, in epoch 18, in step 399, in global step 0.1015625, acc is 0.1015625,                    taks 0.9169998168945312 seconds
+2020-05-03 15:06:10,353 - MLP - INFO - test->loss 2.2978123711939613, in epoch 18, in step 399, in global step 9400,                     acc is 0.109375, taks 0.00800013542175293 seconds
+2020-05-03 15:06:11,133 - MLP - INFO - loss 2.302073183357801, in epoch 18, in step 499, in global step 0.09765625, acc is 0.09765625,                    taks 0.7796001434326172 seconds
+2020-05-03 15:06:11,134 - MLP - INFO - train epoch 19 of total 5000 epoches
+2020-05-03 15:06:11,872 - MLP - INFO - loss 2.2959395276745846, in epoch 19, in step 99, in global step 0.119140625, acc is 0.119140625,                    taks 0.7389998435974121 seconds
+2020-05-03 15:06:12,646 - MLP - INFO - loss 2.3029492412288173, in epoch 19, in step 199, in global step 0.091796875, acc is 0.091796875,                    taks 0.7735998630523682 seconds
+2020-05-03 15:06:12,654 - MLP - INFO - test->loss 2.297770054770115, in epoch 19, in step 199, in global step 9700,                     acc is 0.109375, taks 0.0070002079010009766 seconds
+2020-05-03 15:06:13,493 - MLP - INFO - loss 2.3027331908553705, in epoch 19, in step 299, in global step 0.111328125, acc is 0.111328125,                    taks 0.8387999534606934 seconds

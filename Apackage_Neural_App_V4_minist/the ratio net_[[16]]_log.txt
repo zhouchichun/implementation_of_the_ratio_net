@@ -1,0 +1,375 @@
+2020-05-03 14:51:15,481 - Pade - INFO - now initialize the net with para:
+2020-05-03 14:51:15,481 - Pade - INFO - CKPT
+2020-05-03 14:51:15,481 - Pade - INFO - ckpt
+2020-05-03 14:51:15,482 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,482 - Pade - INFO - BATCHSIZE
+2020-05-03 14:51:15,482 - Pade - INFO - 512
+2020-05-03 14:51:15,482 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,482 - Pade - INFO - MAX_ITER
+2020-05-03 14:51:15,482 - Pade - INFO - 5000
+2020-05-03 14:51:15,482 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,482 - Pade - INFO - STEP_EACH_ITER
+2020-05-03 14:51:15,483 - Pade - INFO - 500
+2020-05-03 14:51:15,483 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,483 - Pade - INFO - STEP_SHOW_train
+2020-05-03 14:51:15,483 - Pade - INFO - 100
+2020-05-03 14:51:15,483 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,483 - Pade - INFO - STEP_SHOW_test
+2020-05-03 14:51:15,483 - Pade - INFO - 200
+2020-05-03 14:51:15,483 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,483 - Pade - INFO - EPOCH_SAVE
+2020-05-03 14:51:15,483 - Pade - INFO - 10
+2020-05-03 14:51:15,484 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,484 - Pade - INFO - LEARNING_RATE
+2020-05-03 14:51:15,484 - Pade - INFO - 0.0001
+2020-05-03 14:51:15,484 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,484 - Pade - INFO - bound_weight
+2020-05-03 14:51:15,484 - Pade - INFO - 1
+2020-05-03 14:51:15,484 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,484 - Pade - INFO - step_unbound
+2020-05-03 14:51:15,484 - Pade - INFO - 5
+2020-05-03 14:51:15,484 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,484 - Pade - INFO - decay
+2020-05-03 14:51:15,484 - Pade - INFO - False
+2020-05-03 14:51:15,485 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,485 - Pade - INFO - test_line
+2020-05-03 14:51:15,485 - Pade - INFO - False
+2020-05-03 14:51:15,485 - Pade - INFO - -----------------------------
+2020-05-03 14:51:15,485 - Pade - INFO - is_plot
+2020-05-03 14:51:15,485 - Pade - INFO - True
+2020-05-03 14:51:15,485 - Pade - INFO - -----------------------------
+2020-05-03 14:51:17,323 - Pade - INFO - openning sess
+2020-05-03 14:51:52,275 - Pade - INFO - now initialize the net with para:
+2020-05-03 14:51:52,275 - Pade - INFO - CKPT
+2020-05-03 14:51:52,275 - Pade - INFO - ckpt
+2020-05-03 14:51:52,275 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,275 - Pade - INFO - BATCHSIZE
+2020-05-03 14:51:52,276 - Pade - INFO - 512
+2020-05-03 14:51:52,276 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,276 - Pade - INFO - MAX_ITER
+2020-05-03 14:51:52,276 - Pade - INFO - 5000
+2020-05-03 14:51:52,276 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,276 - Pade - INFO - STEP_EACH_ITER
+2020-05-03 14:51:52,276 - Pade - INFO - 500
+2020-05-03 14:51:52,276 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,276 - Pade - INFO - STEP_SHOW_train
+2020-05-03 14:51:52,276 - Pade - INFO - 100
+2020-05-03 14:51:52,276 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,276 - Pade - INFO - STEP_SHOW_test
+2020-05-03 14:51:52,276 - Pade - INFO - 200
+2020-05-03 14:51:52,276 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,276 - Pade - INFO - EPOCH_SAVE
+2020-05-03 14:51:52,277 - Pade - INFO - 10
+2020-05-03 14:51:52,277 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,277 - Pade - INFO - LEARNING_RATE
+2020-05-03 14:51:52,277 - Pade - INFO - 0.0001
+2020-05-03 14:51:52,277 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,277 - Pade - INFO - bound_weight
+2020-05-03 14:51:52,277 - Pade - INFO - 1
+2020-05-03 14:51:52,277 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,277 - Pade - INFO - step_unbound
+2020-05-03 14:51:52,277 - Pade - INFO - 5
+2020-05-03 14:51:52,277 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,277 - Pade - INFO - decay
+2020-05-03 14:51:52,277 - Pade - INFO - False
+2020-05-03 14:51:52,277 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,277 - Pade - INFO - test_line
+2020-05-03 14:51:52,278 - Pade - INFO - False
+2020-05-03 14:51:52,278 - Pade - INFO - -----------------------------
+2020-05-03 14:51:52,278 - Pade - INFO - is_plot
+2020-05-03 14:51:52,278 - Pade - INFO - True
+2020-05-03 14:51:52,278 - Pade - INFO - -----------------------------
+2020-05-03 14:51:53,873 - Pade - INFO - openning sess
+2020-05-03 14:51:54,010 - Pade - INFO - building net
+2020-05-03 14:51:54,345 - Pade - INFO - building opt
+2020-05-03 14:51:54,451 - Pade - INFO - net initializing
+2020-05-03 14:51:55,898 - Pade - INFO - train epoch 0 of total 5000 epoches
+2020-05-03 14:51:56,526 - Pade - INFO - loss 3.0942768439979655, in epoch 0, in step 99, in global step 0.1015625, acc is 0.1015625,                    taks 0.6366000175476074 seconds
+2020-05-03 14:51:57,112 - Pade - INFO - loss 2.784316097994182, in epoch 0, in step 199, in global step 0.09765625, acc is 0.09765625,                    taks 0.5850000381469727 seconds
+2020-05-03 14:51:57,138 - Pade - INFO - test->loss 2.83894526091407, in epoch 0, in step 199, in global step 200,                     acc is 0.091796875, taks 0.026000022888183594 seconds
+2020-05-03 14:51:57,663 - Pade - INFO - loss 2.560751680144864, in epoch 0, in step 299, in global step 0.123046875, acc is 0.123046875,                    taks 0.5250000953674316 seconds
+2020-05-03 14:51:58,103 - Pade - INFO - loss 2.4794113407000054, in epoch 0, in step 399, in global step 0.123046875, acc is 0.123046875,                    taks 0.4399998188018799 seconds
+2020-05-03 14:51:58,109 - Pade - INFO - test->loss 2.528652716408777, in epoch 0, in step 399, in global step 400,                     acc is 0.08984375, taks 0.006000041961669922 seconds
+2020-05-03 14:51:58,541 - Pade - INFO - loss 2.4316692550989454, in epoch 0, in step 499, in global step 0.1015625, acc is 0.1015625,                    taks 0.4323999881744385 seconds
+2020-05-03 14:51:58,541 - Pade - INFO - train epoch 1 of total 5000 epoches
+2020-05-03 14:51:58,969 - Pade - INFO - loss 2.3587502068666857, in epoch 1, in step 99, in global step 0.087890625, acc is 0.087890625,                    taks 0.42820000648498535 seconds
+2020-05-03 14:51:59,348 - Pade - INFO - loss 2.30978266080983, in epoch 1, in step 199, in global step 0.0859375, acc is 0.0859375,                    taks 0.3789999485015869 seconds
+2020-05-03 14:51:59,353 - Pade - INFO - test->loss 2.3261862550574484, in epoch 1, in step 199, in global step 700,                     acc is 0.0859375, taks 0.005000114440917969 seconds
+2020-05-03 14:51:59,788 - Pade - INFO - loss 2.3119299611257285, in epoch 1, in step 299, in global step 0.091796875, acc is 0.091796875,                    taks 0.4343998432159424 seconds
+2020-05-03 14:52:00,217 - Pade - INFO - loss 2.2562775434216658, in epoch 1, in step 399, in global step 0.115234375, acc is 0.115234375,                    taks 0.4289999008178711 seconds
+2020-05-03 14:52:00,222 - Pade - INFO - test->loss 2.2591400312001086, in epoch 1, in step 399, in global step 900,                     acc is 0.1171875, taks 0.00500035285949707 seconds
+2020-05-03 14:52:00,673 - Pade - INFO - loss 2.237497702833064, in epoch 1, in step 499, in global step 0.1796875, acc is 0.1796875,                    taks 0.45039987564086914 seconds
+2020-05-03 14:52:00,673 - Pade - INFO - train epoch 2 of total 5000 epoches
+2020-05-03 14:52:01,102 - Pade - INFO - loss 2.213762477860067, in epoch 2, in step 99, in global step 0.236328125, acc is 0.236328125,                    taks 0.4289999008178711 seconds
+2020-05-03 14:52:01,535 - Pade - INFO - loss 2.19442007200019, in epoch 2, in step 199, in global step 0.263671875, acc is 0.263671875,                    taks 0.43160033226013184 seconds
+2020-05-03 14:52:01,540 - Pade - INFO - test->loss 2.194427020604068, in epoch 2, in step 199, in global step 1200,                     acc is 0.255859375, taks 0.004999876022338867 seconds
+2020-05-03 14:52:01,977 - Pade - INFO - loss 2.1590233021805085, in epoch 2, in step 299, in global step 0.322265625, acc is 0.322265625,                    taks 0.4369997978210449 seconds
+2020-05-03 14:52:02,358 - Pade - INFO - loss 2.172035768496386, in epoch 2, in step 399, in global step 0.25390625, acc is 0.25390625,                    taks 0.381000280380249 seconds
+2020-05-03 14:52:02,364 - Pade - INFO - test->loss 2.1562876888403406, in epoch 2, in step 399, in global step 1400,                     acc is 0.279296875, taks 0.00599980354309082 seconds
+2020-05-03 14:52:02,788 - Pade - INFO - loss 2.133511410501104, in epoch 2, in step 499, in global step 0.306640625, acc is 0.306640625,                    taks 0.42420005798339844 seconds
+2020-05-03 14:52:02,788 - Pade - INFO - train epoch 3 of total 5000 epoches
+2020-05-03 14:52:03,227 - Pade - INFO - loss 2.1133861570534376, in epoch 3, in step 99, in global step 0.34375, acc is 0.34375,                    taks 0.43900012969970703 seconds
+2020-05-03 14:52:03,650 - Pade - INFO - loss 2.089330589580328, in epoch 3, in step 199, in global step 0.3203125, acc is 0.3203125,                    taks 0.42259979248046875 seconds
+2020-05-03 14:52:03,650 - Pade - INFO - test->loss 2.0888835335008875, in epoch 3, in step 199, in global step 1700,                     acc is 0.3359375, taks 0.0 seconds
+2020-05-03 14:52:04,103 - Pade - INFO - loss 2.0773812674015213, in epoch 3, in step 299, in global step 0.345703125, acc is 0.345703125,                    taks 0.453200101852417 seconds
+2020-05-03 14:52:04,539 - Pade - INFO - loss 2.0366480926845894, in epoch 3, in step 399, in global step 0.396484375, acc is 0.396484375,                    taks 0.4350001811981201 seconds
+2020-05-03 14:52:04,545 - Pade - INFO - test->loss 2.0301576598009374, in epoch 3, in step 399, in global step 1900,                     acc is 0.38671875, taks 0.00599980354309082 seconds
+2020-05-03 14:52:04,973 - Pade - INFO - loss 1.994202671143237, in epoch 3, in step 499, in global step 0.4140625, acc is 0.4140625,                    taks 0.42820024490356445 seconds
+2020-05-03 14:52:04,973 - Pade - INFO - train epoch 4 of total 5000 epoches
+2020-05-03 14:52:05,380 - Pade - INFO - loss 1.9861856748664115, in epoch 4, in step 99, in global step 0.384765625, acc is 0.384765625,                    taks 0.4069998264312744 seconds
+2020-05-03 14:52:05,818 - Pade - INFO - loss 1.9138732383407575, in epoch 4, in step 199, in global step 0.44921875, acc is 0.44921875,                    taks 0.4381999969482422 seconds
+2020-05-03 14:52:05,824 - Pade - INFO - test->loss 1.9165661062929897, in epoch 4, in step 199, in global step 2200,                     acc is 0.453125, taks 0.005000114440917969 seconds
+2020-05-03 14:52:06,252 - Pade - INFO - loss 1.8654974962219912, in epoch 4, in step 299, in global step 0.48828125, acc is 0.48828125,                    taks 0.42800021171569824 seconds
+2020-05-03 14:52:06,694 - Pade - INFO - loss 1.8148236144474597, in epoch 4, in step 399, in global step 0.513671875, acc is 0.513671875,                    taks 0.4417998790740967 seconds
+2020-05-03 14:52:06,700 - Pade - INFO - test->loss 1.8194545227607342, in epoch 4, in step 399, in global step 2400,                     acc is 0.5, taks 0.004999876022338867 seconds
+2020-05-03 14:52:07,128 - Pade - INFO - loss 1.740218918696491, in epoch 4, in step 499, in global step 0.552734375, acc is 0.552734375,                    taks 0.4276001453399658 seconds
+2020-05-03 14:52:07,128 - Pade - INFO - train epoch 5 of total 5000 epoches
+2020-05-03 14:52:07,557 - Pade - INFO - loss 1.765631135937246, in epoch 5, in step 99, in global step 0.50390625, acc is 0.50390625,                    taks 0.4291999340057373 seconds
+2020-05-03 14:52:07,999 - Pade - INFO - loss 1.6164569692875577, in epoch 5, in step 199, in global step 0.556640625, acc is 0.556640625,                    taks 0.4421999454498291 seconds
+2020-05-03 14:52:08,004 - Pade - INFO - test->loss 1.643378483700836, in epoch 5, in step 199, in global step 2700,                     acc is 0.58203125, taks 0.005000114440917969 seconds
+2020-05-03 14:52:08,383 - Pade - INFO - loss 1.590427455739972, in epoch 5, in step 299, in global step 0.603515625, acc is 0.603515625,                    taks 0.3789999485015869 seconds
+2020-05-03 14:52:08,819 - Pade - INFO - loss 1.4954466379436144, in epoch 5, in step 399, in global step 0.60546875, acc is 0.60546875,                    taks 0.43600010871887207 seconds
+2020-05-03 14:52:08,824 - Pade - INFO - test->loss 1.5098635644232612, in epoch 5, in step 399, in global step 2900,                     acc is 0.61328125, taks 0.004999876022338867 seconds
+2020-05-03 14:52:09,248 - Pade - INFO - loss 1.4996660033913976, in epoch 5, in step 499, in global step 0.59375, acc is 0.59375,                    taks 0.4240000247955322 seconds
+2020-05-03 14:52:09,249 - Pade - INFO - train epoch 6 of total 5000 epoches
+2020-05-03 14:52:09,686 - Pade - INFO - loss 1.3834505188209312, in epoch 6, in step 99, in global step 0.6484375, acc is 0.6484375,                    taks 0.437999963760376 seconds
+2020-05-03 14:52:10,115 - Pade - INFO - loss 1.3182662200658406, in epoch 6, in step 199, in global step 0.62109375, acc is 0.62109375,                    taks 0.4290001392364502 seconds
+2020-05-03 14:52:10,121 - Pade - INFO - test->loss 1.3028194607673365, in epoch 6, in step 199, in global step 3200,                     acc is 0.64453125, taks 0.004999876022338867 seconds
+2020-05-03 14:52:10,568 - Pade - INFO - loss 1.2862607549899514, in epoch 6, in step 299, in global step 0.640625, acc is 0.640625,                    taks 0.44720005989074707 seconds
+2020-05-03 14:52:11,007 - Pade - INFO - loss 1.2388057603977614, in epoch 6, in step 399, in global step 0.65234375, acc is 0.65234375,                    taks 0.4384000301361084 seconds
+2020-05-03 14:52:11,013 - Pade - INFO - test->loss 1.174755518198587, in epoch 6, in step 399, in global step 3400,                     acc is 0.677734375, taks 0.00599980354309082 seconds
+2020-05-03 14:52:11,396 - Pade - INFO - loss 1.0745957455812583, in epoch 6, in step 499, in global step 0.71484375, acc is 0.71484375,                    taks 0.38359999656677246 seconds
+2020-05-03 14:52:11,396 - Pade - INFO - train epoch 7 of total 5000 epoches
+2020-05-03 14:52:11,822 - Pade - INFO - loss 1.1350316003853989, in epoch 7, in step 99, in global step 0.6875, acc is 0.6875,                    taks 0.42619991302490234 seconds
+2020-05-03 14:52:12,256 - Pade - INFO - loss 1.0189538305923378, in epoch 7, in step 199, in global step 0.693359375, acc is 0.693359375,                    taks 0.432999849319458 seconds
+2020-05-03 14:52:12,263 - Pade - INFO - test->loss 1.0086567898920793, in epoch 7, in step 199, in global step 3700,                     acc is 0.728515625, taks 0.0070002079010009766 seconds
+2020-05-03 14:52:12,695 - Pade - INFO - loss 0.9723070603613249, in epoch 7, in step 299, in global step 0.75390625, acc is 0.75390625,                    taks 0.43199992179870605 seconds
+2020-05-03 14:52:13,128 - Pade - INFO - loss 0.9438294109648916, in epoch 7, in step 399, in global step 0.720703125, acc is 0.720703125,                    taks 0.432999849319458 seconds
+2020-05-03 14:52:13,135 - Pade - INFO - test->loss 0.9176920634891259, in epoch 7, in step 399, in global step 3900,                     acc is 0.75390625, taks 0.0070002079010009766 seconds
+2020-05-03 14:52:13,574 - Pade - INFO - loss 0.9072775190161786, in epoch 7, in step 499, in global step 0.736328125, acc is 0.736328125,                    taks 0.43899989128112793 seconds
+2020-05-03 14:52:13,574 - Pade - INFO - train epoch 8 of total 5000 epoches
+2020-05-03 14:52:14,011 - Pade - INFO - loss 0.8248165318899184, in epoch 8, in step 99, in global step 0.767578125, acc is 0.767578125,                    taks 0.437000036239624 seconds
+2020-05-03 14:52:14,400 - Pade - INFO - loss 0.8177790940924223, in epoch 8, in step 199, in global step 0.763671875, acc is 0.763671875,                    taks 0.388200044631958 seconds
+2020-05-03 14:52:14,405 - Pade - INFO - test->loss 0.8055006081957244, in epoch 8, in step 199, in global step 4200,                     acc is 0.763671875, taks 0.004999876022338867 seconds
+2020-05-03 14:52:14,838 - Pade - INFO - loss 0.8194434397192277, in epoch 8, in step 299, in global step 0.755859375, acc is 0.755859375,                    taks 0.4332001209259033 seconds
+2020-05-03 14:52:15,274 - Pade - INFO - loss 0.8035048368008921, in epoch 8, in step 399, in global step 0.765625, acc is 0.765625,                    taks 0.43600010871887207 seconds
+2020-05-03 14:52:15,279 - Pade - INFO - test->loss 0.7463823408698662, in epoch 8, in step 399, in global step 4400,                     acc is 0.7890625, taks 0.004999876022338867 seconds
+2020-05-03 14:52:15,719 - Pade - INFO - loss 0.7687657391107952, in epoch 8, in step 499, in global step 0.775390625, acc is 0.775390625,                    taks 0.4401998519897461 seconds
+2020-05-03 14:52:15,719 - Pade - INFO - train epoch 9 of total 5000 epoches
+2020-05-03 14:52:16,158 - Pade - INFO - loss 0.6512315185367845, in epoch 9, in step 99, in global step 0.802734375, acc is 0.802734375,                    taks 0.43900012969970703 seconds
+2020-05-03 14:52:16,598 - Pade - INFO - loss 0.6081683255899426, in epoch 9, in step 199, in global step 0.83203125, acc is 0.83203125,                    taks 0.43959975242614746 seconds
+2020-05-03 14:52:16,603 - Pade - INFO - test->loss 0.6755874333223213, in epoch 9, in step 199, in global step 4700,                     acc is 0.8046875, taks 0.00500035285949707 seconds
+2020-05-03 14:52:17,040 - Pade - INFO - loss 0.6607882731984099, in epoch 9, in step 299, in global step 0.81640625, acc is 0.81640625,                    taks 0.4369997978210449 seconds
+2020-05-03 14:52:17,422 - Pade - INFO - loss 0.585110140298589, in epoch 9, in step 399, in global step 0.818359375, acc is 0.818359375,                    taks 0.3819999694824219 seconds
+2020-05-03 14:52:17,427 - Pade - INFO - test->loss 0.6380449043859064, in epoch 9, in step 399, in global step 4900,                     acc is 0.814453125, taks 0.003999948501586914 seconds
+2020-05-03 14:52:17,849 - Pade - INFO - loss 0.6414301169913057, in epoch 9, in step 499, in global step 0.802734375, acc is 0.802734375,                    taks 0.4219999313354492 seconds
+2020-05-03 14:52:18,288 - Pade - INFO - Model saved in path: ckpt_Pade in epoch 9. acc is 0.802734375, loss is 0.6414301169913057
+2020-05-03 14:52:18,288 - Pade - INFO - train epoch 10 of total 5000 epoches
+2020-05-03 14:52:19,881 - Pade - INFO - loss 0.6264180765651312, in epoch 10, in step 99, in global step 0.796875, acc is 0.796875,                    taks 2.0156002044677734 seconds
+2020-05-03 14:52:21,287 - Pade - INFO - loss 0.6485923989995998, in epoch 10, in step 199, in global step 0.806640625, acc is 0.806640625,                    taks 1.404599905014038 seconds
+2020-05-03 14:52:21,309 - Pade - INFO - test->loss 0.5943473593265141, in epoch 10, in step 199, in global step 5200,                     acc is 0.82421875, taks 0.021999835968017578 seconds
+2020-05-03 14:52:22,463 - Pade - INFO - loss 0.6196889177087712, in epoch 10, in step 299, in global step 0.82421875, acc is 0.82421875,                    taks 1.1546003818511963 seconds
+2020-05-03 14:52:23,645 - Pade - INFO - loss 0.5342025991682429, in epoch 10, in step 399, in global step 0.833984375, acc is 0.833984375,                    taks 1.1817998886108398 seconds
+2020-05-03 14:52:23,662 - Pade - INFO - test->loss 0.568479620069093, in epoch 10, in step 399, in global step 5400,                     acc is 0.8359375, taks 0.015000104904174805 seconds
+2020-05-03 14:52:24,850 - Pade - INFO - loss 0.5712520854015775, in epoch 10, in step 499, in global step 0.828125, acc is 0.828125,                    taks 1.188199758529663 seconds
+2020-05-03 14:52:24,851 - Pade - INFO - train epoch 11 of total 5000 epoches
+2020-05-03 14:52:25,990 - Pade - INFO - loss 0.5324842438551255, in epoch 11, in step 99, in global step 0.826171875, acc is 0.826171875,                    taks 1.138199806213379 seconds
+2020-05-03 14:52:27,254 - Pade - INFO - loss 0.4997059583125232, in epoch 11, in step 199, in global step 0.84765625, acc is 0.84765625,                    taks 1.2639999389648438 seconds
+2020-05-03 14:52:27,266 - Pade - INFO - test->loss 0.537051082893784, in epoch 11, in step 199, in global step 5700,                     acc is 0.83984375, taks 0.011999845504760742 seconds
+2020-05-03 14:52:28,384 - Pade - INFO - loss 0.4808366157830063, in epoch 11, in step 299, in global step 0.86328125, acc is 0.86328125,                    taks 1.1175999641418457 seconds
+2020-05-03 14:52:29,405 - Pade - INFO - loss 0.4613724846288696, in epoch 11, in step 399, in global step 0.85546875, acc is 0.85546875,                    taks 1.0211997032165527 seconds
+2020-05-03 14:52:29,415 - Pade - INFO - test->loss 0.5188362696064659, in epoch 11, in step 399, in global step 5900,                     acc is 0.841796875, taks 0.010000228881835938 seconds
+2020-05-03 14:52:30,388 - Pade - INFO - loss 0.45131006295557374, in epoch 11, in step 499, in global step 0.83984375, acc is 0.83984375,                    taks 0.9730000495910645 seconds
+2020-05-03 14:52:30,388 - Pade - INFO - train epoch 12 of total 5000 epoches
+2020-05-03 14:52:31,261 - Pade - INFO - loss 0.5008338092278247, in epoch 12, in step 99, in global step 0.845703125, acc is 0.845703125,                    taks 0.872999906539917 seconds
+2020-05-03 14:52:32,031 - Pade - INFO - loss 0.4666563252167237, in epoch 12, in step 199, in global step 0.83984375, acc is 0.83984375,                    taks 0.769399881362915 seconds
+2020-05-03 14:52:32,041 - Pade - INFO - test->loss 0.49612213057323484, in epoch 12, in step 199, in global step 6200,                     acc is 0.849609375, taks 0.009999990463256836 seconds
+2020-05-03 14:52:32,900 - Pade - INFO - loss 0.4664515656645406, in epoch 12, in step 299, in global step 0.865234375, acc is 0.865234375,                    taks 0.8585999011993408 seconds
+2020-05-03 14:52:33,697 - Pade - INFO - loss 0.3912596145843938, in epoch 12, in step 399, in global step 0.875, acc is 0.875,                    taks 0.7960000038146973 seconds
+2020-05-03 14:52:33,723 - Pade - INFO - test->loss 0.4801327294088132, in epoch 12, in step 399, in global step 6400,                     acc is 0.857421875, taks 0.012000083923339844 seconds
+2020-05-03 14:52:34,479 - Pade - INFO - loss 0.45743510767011136, in epoch 12, in step 499, in global step 0.853515625, acc is 0.853515625,                    taks 0.7559998035430908 seconds
+2020-05-03 14:52:34,479 - Pade - INFO - train epoch 13 of total 5000 epoches
+2020-05-03 14:52:35,257 - Pade - INFO - loss 0.4734144869142319, in epoch 13, in step 99, in global step 0.8671875, acc is 0.8671875,                    taks 0.7771999835968018 seconds
+2020-05-03 14:52:36,029 - Pade - INFO - loss 0.504497837245712, in epoch 13, in step 199, in global step 0.845703125, acc is 0.845703125,                    taks 0.7716000080108643 seconds
+2020-05-03 14:52:36,039 - Pade - INFO - test->loss 0.46106650670082583, in epoch 13, in step 199, in global step 6700,                     acc is 0.861328125, taks 0.009999752044677734 seconds
+2020-05-03 14:52:36,790 - Pade - INFO - loss 0.4821093480272878, in epoch 13, in step 299, in global step 0.865234375, acc is 0.865234375,                    taks 0.75 seconds
+2020-05-03 14:52:37,458 - Pade - INFO - loss 0.43284486202782113, in epoch 13, in step 399, in global step 0.861328125, acc is 0.861328125,                    taks 0.6677999496459961 seconds
+2020-05-03 14:52:37,474 - Pade - INFO - test->loss 0.4490619429609333, in epoch 13, in step 399, in global step 6900,                     acc is 0.861328125, taks 0.015599966049194336 seconds
+2020-05-03 14:52:38,227 - Pade - INFO - loss 0.41773826576587825, in epoch 13, in step 499, in global step 0.875, acc is 0.875,                    taks 0.7538001537322998 seconds
+2020-05-03 14:52:38,228 - Pade - INFO - train epoch 14 of total 5000 epoches
+2020-05-03 14:52:38,983 - Pade - INFO - loss 0.4302950646205564, in epoch 14, in step 99, in global step 0.861328125, acc is 0.861328125,                    taks 0.755000114440918 seconds
+2020-05-03 14:52:39,744 - Pade - INFO - loss 0.3787893018916088, in epoch 14, in step 199, in global step 0.884765625, acc is 0.884765625,                    taks 0.7599999904632568 seconds
+2020-05-03 14:52:39,753 - Pade - INFO - test->loss 0.4330724192891512, in epoch 14, in step 199, in global step 7200,                     acc is 0.865234375, taks 0.008999824523925781 seconds
+2020-05-03 14:52:40,505 - Pade - INFO - loss 0.4329391963740794, in epoch 14, in step 299, in global step 0.880859375, acc is 0.880859375,                    taks 0.7516002655029297 seconds
+2020-05-03 14:52:41,269 - Pade - INFO - loss 0.4932229014209719, in epoch 14, in step 399, in global step 0.876953125, acc is 0.876953125,                    taks 0.7627997398376465 seconds
+2020-05-03 14:52:41,282 - Pade - INFO - test->loss 0.42243761007012415, in epoch 14, in step 399, in global step 7400,                     acc is 0.8671875, taks 0.012000083923339844 seconds
+2020-05-03 14:52:42,030 - Pade - INFO - loss 0.3799701769260852, in epoch 14, in step 499, in global step 0.87109375, acc is 0.87109375,                    taks 0.7481999397277832 seconds
+2020-05-03 14:52:42,031 - Pade - INFO - train epoch 15 of total 5000 epoches
+2020-05-03 14:52:42,708 - Pade - INFO - loss 0.5339287034617796, in epoch 15, in step 99, in global step 0.849609375, acc is 0.849609375,                    taks 0.6779999732971191 seconds
+2020-05-03 14:52:43,477 - Pade - INFO - loss 0.41163226778537, in epoch 15, in step 199, in global step 0.880859375, acc is 0.880859375,                    taks 0.7692000865936279 seconds
+2020-05-03 14:52:43,486 - Pade - INFO - test->loss 0.4107787191690232, in epoch 15, in step 199, in global step 7700,                     acc is 0.8671875, taks 0.008999824523925781 seconds
+2020-05-03 14:52:44,255 - Pade - INFO - loss 0.4212803045011944, in epoch 15, in step 299, in global step 0.869140625, acc is 0.869140625,                    taks 0.7685999870300293 seconds
+2020-05-03 14:52:45,004 - Pade - INFO - loss 0.47162213392186486, in epoch 15, in step 399, in global step 0.87890625, acc is 0.87890625,                    taks 0.7496001720428467 seconds
+2020-05-03 14:52:45,016 - Pade - INFO - test->loss 0.4024020933025578, in epoch 15, in step 399, in global step 7900,                     acc is 0.87109375, taks 0.011999845504760742 seconds
+2020-05-03 14:52:45,784 - Pade - INFO - loss 0.42978352909674333, in epoch 15, in step 499, in global step 0.869140625, acc is 0.869140625,                    taks 0.7674000263214111 seconds
+2020-05-03 14:52:45,785 - Pade - INFO - train epoch 16 of total 5000 epoches
+2020-05-03 14:52:46,542 - Pade - INFO - loss 0.3507813266835238, in epoch 16, in step 99, in global step 0.90625, acc is 0.90625,                    taks 0.7572002410888672 seconds
+2020-05-03 14:52:47,298 - Pade - INFO - loss 0.38448727978182795, in epoch 16, in step 199, in global step 0.880859375, acc is 0.880859375,                    taks 0.756199836730957 seconds
+2020-05-03 14:52:47,298 - Pade - INFO - test->loss 0.39040288197178574, in epoch 16, in step 199, in global step 8200,                     acc is 0.869140625, taks 0.0 seconds
+2020-05-03 14:52:47,995 - Pade - INFO - loss 0.35570570607397967, in epoch 16, in step 299, in global step 0.91015625, acc is 0.91015625,                    taks 0.6965999603271484 seconds
+2020-05-03 14:52:48,753 - Pade - INFO - loss 0.3825305827755874, in epoch 16, in step 399, in global step 0.884765625, acc is 0.884765625,                    taks 0.7578001022338867 seconds
+2020-05-03 14:52:48,762 - Pade - INFO - test->loss 0.38394236813964233, in epoch 16, in step 399, in global step 8400,                     acc is 0.880859375, taks 0.008999824523925781 seconds
+2020-05-03 14:52:49,511 - Pade - INFO - loss 0.36275754157007273, in epoch 16, in step 499, in global step 0.88671875, acc is 0.88671875,                    taks 0.7488000392913818 seconds
+2020-05-03 14:52:49,512 - Pade - INFO - train epoch 17 of total 5000 epoches
+2020-05-03 14:52:50,602 - Pade - INFO - loss 0.38267008204662234, in epoch 17, in step 99, in global step 0.88671875, acc is 0.88671875,                    taks 1.0909998416900635 seconds
+2020-05-03 14:52:51,810 - Pade - INFO - loss 0.37196843753290165, in epoch 17, in step 199, in global step 0.904296875, acc is 0.904296875,                    taks 1.2069997787475586 seconds
+2020-05-03 14:52:51,831 - Pade - INFO - test->loss 0.3762404051348039, in epoch 17, in step 199, in global step 8700,                     acc is 0.88671875, taks 0.021000146865844727 seconds
+2020-05-03 14:52:53,029 - Pade - INFO - loss 0.3322029849887666, in epoch 17, in step 299, in global step 0.890625, acc is 0.890625,                    taks 1.197200059890747 seconds
+2020-05-03 14:52:54,202 - Pade - INFO - loss 0.43832988226547703, in epoch 17, in step 399, in global step 0.861328125, acc is 0.861328125,                    taks 1.1729998588562012 seconds
+2020-05-03 14:52:54,216 - Pade - INFO - test->loss 0.36970602357919286, in epoch 17, in step 399, in global step 8900,                     acc is 0.890625, taks 0.014000177383422852 seconds
+2020-05-03 14:52:55,242 - Pade - INFO - loss 0.35330977306927513, in epoch 17, in step 499, in global step 0.900390625, acc is 0.900390625,                    taks 1.0262000560760498 seconds
+2020-05-03 14:52:55,242 - Pade - INFO - train epoch 18 of total 5000 epoches
+2020-05-03 14:52:56,158 - Pade - INFO - loss 0.3614377218940739, in epoch 18, in step 99, in global step 0.90234375, acc is 0.90234375,                    taks 0.9155998229980469 seconds
+2020-05-03 14:52:57,046 - Pade - INFO - loss 0.31210608535414996, in epoch 18, in step 199, in global step 0.90625, acc is 0.90625,                    taks 0.8880000114440918 seconds
+2020-05-03 14:52:57,056 - Pade - INFO - test->loss 0.36293674778306406, in epoch 18, in step 199, in global step 9200,                     acc is 0.88671875, taks 0.010000228881835938 seconds
+2020-05-03 14:52:57,973 - Pade - INFO - loss 0.399349626164997, in epoch 18, in step 299, in global step 0.884765625, acc is 0.884765625,                    taks 0.9153997898101807 seconds
+2020-05-03 14:52:58,745 - Pade - INFO - loss 0.2731882502323167, in epoch 18, in step 399, in global step 0.919921875, acc is 0.919921875,                    taks 0.7718000411987305 seconds
+2020-05-03 14:52:58,756 - Pade - INFO - test->loss 0.3590202169962135, in epoch 18, in step 399, in global step 9400,                     acc is 0.892578125, taks 0.01100015640258789 seconds
+2020-05-03 14:52:59,487 - Pade - INFO - loss 0.4170453672539392, in epoch 18, in step 499, in global step 0.865234375, acc is 0.865234375,                    taks 0.7309999465942383 seconds
+2020-05-03 14:52:59,488 - Pade - INFO - train epoch 19 of total 5000 epoches
+2020-05-03 14:53:00,172 - Pade - INFO - loss 0.3184888742024565, in epoch 19, in step 99, in global step 0.912109375, acc is 0.912109375,                    taks 0.6840000152587891 seconds
+2020-05-03 14:53:00,776 - Pade - INFO - loss 0.3395435952134438, in epoch 19, in step 199, in global step 0.91015625, acc is 0.91015625,                    taks 0.6030001640319824 seconds
+2020-05-03 14:53:00,784 - Pade - INFO - test->loss 0.3535536743762765, in epoch 19, in step 199, in global step 9700,                     acc is 0.892578125, taks 0.007999897003173828 seconds
+2020-05-03 14:53:01,408 - Pade - INFO - loss 0.3424031126046659, in epoch 19, in step 299, in global step 0.90234375, acc is 0.90234375,                    taks 0.6242001056671143 seconds
+2020-05-03 14:53:02,011 - Pade - INFO - loss 0.39601624286854864, in epoch 19, in step 399, in global step 0.892578125, acc is 0.892578125,                    taks 0.6029999256134033 seconds
+2020-05-03 14:53:02,018 - Pade - INFO - test->loss 0.3494616878430435, in epoch 19, in step 399, in global step 9900,                     acc is 0.892578125, taks 0.0070002079010009766 seconds
+2020-05-03 14:53:02,620 - Pade - INFO - loss 0.2960606514167575, in epoch 19, in step 499, in global step 0.900390625, acc is 0.900390625,                    taks 0.6025998592376709 seconds
+2020-05-03 14:53:02,980 - Pade - INFO - Model saved in path: ckpt_Pade in epoch 19. acc is 0.900390625, loss is 0.2960606514167575
+2020-05-03 14:53:02,981 - Pade - INFO - train epoch 20 of total 5000 epoches
+2020-05-03 14:53:04,343 - Pade - INFO - loss 0.36042516626214544, in epoch 20, in step 99, in global step 0.88671875, acc is 0.88671875,                    taks 1.7227997779846191 seconds
+2020-05-03 14:53:05,570 - Pade - INFO - loss 0.32100682344482473, in epoch 20, in step 199, in global step 0.912109375, acc is 0.912109375,                    taks 1.2272000312805176 seconds
+2020-05-03 14:53:05,584 - Pade - INFO - test->loss 0.34369422997956833, in epoch 20, in step 199, in global step 10200,                     acc is 0.89453125, taks 0.013000011444091797 seconds
+2020-05-03 14:53:06,693 - Pade - INFO - loss 0.34025468197785813, in epoch 20, in step 299, in global step 0.91015625, acc is 0.91015625,                    taks 1.1082000732421875 seconds
+2020-05-03 14:53:07,505 - Pade - INFO - loss 0.30498819380977027, in epoch 20, in step 399, in global step 0.908203125, acc is 0.908203125,                    taks 0.8114001750946045 seconds
+2020-05-03 14:53:07,515 - Pade - INFO - test->loss 0.34119336399736194, in epoch 20, in step 399, in global step 10400,                     acc is 0.896484375, taks 0.009999752044677734 seconds
+2020-05-03 14:53:08,436 - Pade - INFO - loss 0.30780090809892724, in epoch 20, in step 499, in global step 0.90625, acc is 0.90625,                    taks 0.9204001426696777 seconds
+2020-05-03 14:53:08,437 - Pade - INFO - train epoch 21 of total 5000 epoches
+2020-05-03 14:53:09,351 - Pade - INFO - loss 0.355279917852628, in epoch 21, in step 99, in global step 0.890625, acc is 0.890625,                    taks 0.9121999740600586 seconds
+2020-05-03 14:53:10,278 - Pade - INFO - loss 0.36917436359657485, in epoch 21, in step 199, in global step 0.892578125, acc is 0.892578125,                    taks 0.9273998737335205 seconds
+2020-05-03 14:53:10,289 - Pade - INFO - test->loss 0.3375556286281921, in epoch 21, in step 199, in global step 10700,                     acc is 0.8984375, taks 0.01100015640258789 seconds
+2020-05-03 14:53:11,228 - Pade - INFO - loss 0.36275085007215013, in epoch 21, in step 299, in global step 0.916015625, acc is 0.916015625,                    taks 0.9387998580932617 seconds
+2020-05-03 14:53:12,169 - Pade - INFO - loss 0.3212805268449472, in epoch 21, in step 399, in global step 0.908203125, acc is 0.908203125,                    taks 0.9409999847412109 seconds
+2020-05-03 14:53:12,180 - Pade - INFO - test->loss 0.3349103339919285, in epoch 21, in step 399, in global step 10900,                     acc is 0.8984375, taks 0.010999917984008789 seconds
+2020-05-03 14:53:13,235 - Pade - INFO - loss 0.3252581592511651, in epoch 21, in step 499, in global step 0.888671875, acc is 0.888671875,                    taks 1.054800271987915 seconds
+2020-05-03 14:53:13,236 - Pade - INFO - train epoch 22 of total 5000 epoches
+2020-05-03 14:53:14,573 - Pade - INFO - loss 0.34635894409110457, in epoch 22, in step 99, in global step 0.908203125, acc is 0.908203125,                    taks 1.338399887084961 seconds
+2020-05-03 14:53:15,774 - Pade - INFO - loss 0.2945695680099178, in epoch 22, in step 199, in global step 0.90234375, acc is 0.90234375,                    taks 1.2008001804351807 seconds
+2020-05-03 14:53:15,786 - Pade - INFO - test->loss 0.3308923967272497, in epoch 22, in step 199, in global step 11200,                     acc is 0.90234375, taks 0.011999845504760742 seconds
+2020-05-03 14:53:16,837 - Pade - INFO - loss 0.4153012629803111, in epoch 22, in step 299, in global step 0.884765625, acc is 0.884765625,                    taks 1.0512001514434814 seconds
+2020-05-03 14:53:17,804 - Pade - INFO - loss 0.31924593910846594, in epoch 22, in step 399, in global step 0.916015625, acc is 0.916015625,                    taks 0.9665999412536621 seconds
+2020-05-03 14:53:17,819 - Pade - INFO - test->loss 0.33068176338410205, in epoch 22, in step 399, in global step 11400,                     acc is 0.8984375, taks 0.01399993896484375 seconds
+2020-05-03 14:53:18,684 - Pade - INFO - loss 0.34188431065885283, in epoch 22, in step 499, in global step 0.91015625, acc is 0.91015625,                    taks 0.864799976348877 seconds
+2020-05-03 14:53:18,684 - Pade - INFO - train epoch 23 of total 5000 epoches
+2020-05-03 14:53:19,560 - Pade - INFO - loss 0.3685418145959889, in epoch 23, in step 99, in global step 0.904296875, acc is 0.904296875,                    taks 0.876000165939331 seconds
+2020-05-03 14:53:20,269 - Pade - INFO - loss 0.34336123486585757, in epoch 23, in step 199, in global step 0.90234375, acc is 0.90234375,                    taks 0.7072000503540039 seconds
+2020-05-03 14:53:20,278 - Pade - INFO - test->loss 0.32457640509261554, in epoch 23, in step 199, in global step 11700,                     acc is 0.904296875, taks 0.008999824523925781 seconds
+2020-05-03 14:53:21,045 - Pade - INFO - loss 0.3003462095521642, in epoch 23, in step 299, in global step 0.912109375, acc is 0.912109375,                    taks 0.7678000926971436 seconds
+2020-05-03 14:53:21,809 - Pade - INFO - loss 0.32036414276536274, in epoch 23, in step 399, in global step 0.8984375, acc is 0.8984375,                    taks 0.7639999389648438 seconds
+2020-05-03 14:53:21,817 - Pade - INFO - test->loss 0.3237314275136052, in epoch 23, in step 399, in global step 11900,                     acc is 0.90234375, taks 0.00800013542175293 seconds
+2020-05-03 14:53:23,073 - Pade - INFO - loss 0.3041932012162601, in epoch 23, in step 499, in global step 0.919921875, acc is 0.919921875,                    taks 1.2548000812530518 seconds
+2020-05-03 14:53:23,074 - Pade - INFO - train epoch 24 of total 5000 epoches
+2020-05-03 14:53:24,341 - Pade - INFO - loss 0.2198477344588184, in epoch 24, in step 99, in global step 0.935546875, acc is 0.935546875,                    taks 1.2674000263214111 seconds
+2020-05-03 14:53:25,572 - Pade - INFO - loss 0.266915841559612, in epoch 24, in step 199, in global step 0.921875, acc is 0.921875,                    taks 1.231799840927124 seconds
+2020-05-03 14:53:25,588 - Pade - INFO - test->loss 0.32189241682341907, in epoch 24, in step 199, in global step 12200,                     acc is 0.900390625, taks 0.015599966049194336 seconds
+2020-05-03 14:53:26,636 - Pade - INFO - loss 0.29748041022693256, in epoch 24, in step 299, in global step 0.90625, acc is 0.90625,                    taks 1.0480000972747803 seconds
+2020-05-03 14:53:27,566 - Pade - INFO - loss 0.3921384718201687, in epoch 24, in step 399, in global step 0.875, acc is 0.875,                    taks 0.9300000667572021 seconds
+2020-05-03 14:53:27,578 - Pade - INFO - test->loss 0.3189770853038252, in epoch 24, in step 399, in global step 12400,                     acc is 0.912109375, taks 0.012000083923339844 seconds
+2020-05-03 14:53:28,563 - Pade - INFO - loss 0.3805906355016426, in epoch 24, in step 499, in global step 0.8984375, acc is 0.8984375,                    taks 0.9851996898651123 seconds
+2020-05-03 14:53:28,563 - Pade - INFO - train epoch 25 of total 5000 epoches
+2020-05-03 14:53:29,578 - Pade - INFO - loss 0.27976677679129847, in epoch 25, in step 99, in global step 0.9140625, acc is 0.9140625,                    taks 1.0150001049041748 seconds
+2020-05-03 14:53:30,506 - Pade - INFO - loss 0.3224578960641174, in epoch 25, in step 199, in global step 0.921875, acc is 0.921875,                    taks 0.927800178527832 seconds
+2020-05-03 14:53:30,518 - Pade - INFO - test->loss 0.31671403567982437, in epoch 25, in step 199, in global step 12700,                     acc is 0.912109375, taks 0.010999917984008789 seconds
+2020-05-03 14:53:31,453 - Pade - INFO - loss 0.3448143734767435, in epoch 25, in step 299, in global step 0.89453125, acc is 0.89453125,                    taks 0.9351999759674072 seconds
+2020-05-03 14:53:32,279 - Pade - INFO - loss 0.32012808237244006, in epoch 25, in step 399, in global step 0.912109375, acc is 0.912109375,                    taks 0.8256001472473145 seconds
+2020-05-03 14:53:32,363 - Pade - INFO - test->loss 0.31460520057233976, in epoch 25, in step 399, in global step 12900,                     acc is 0.9140625, taks 0.011999845504760742 seconds
+2020-05-03 14:53:33,264 - Pade - INFO - loss 0.26267228546394616, in epoch 25, in step 499, in global step 0.9140625, acc is 0.9140625,                    taks 0.9016001224517822 seconds
+2020-05-03 14:53:33,265 - Pade - INFO - train epoch 26 of total 5000 epoches
+2020-05-03 14:53:33,996 - Pade - INFO - loss 0.32715710200286613, in epoch 26, in step 99, in global step 0.90625, acc is 0.90625,                    taks 0.7303998470306396 seconds
+2020-05-03 14:53:34,809 - Pade - INFO - loss 0.3365638080175835, in epoch 26, in step 199, in global step 0.89453125, acc is 0.89453125,                    taks 0.8134002685546875 seconds
+2020-05-03 14:53:34,819 - Pade - INFO - test->loss 0.3121498873305981, in epoch 26, in step 199, in global step 13200,                     acc is 0.9140625, taks 0.008999824523925781 seconds
+2020-05-03 14:53:35,617 - Pade - INFO - loss 0.2646256256978627, in epoch 26, in step 299, in global step 0.923828125, acc is 0.923828125,                    taks 0.7972002029418945 seconds
+2020-05-03 14:53:36,330 - Pade - INFO - loss 0.2863144309100635, in epoch 26, in step 399, in global step 0.919921875, acc is 0.919921875,                    taks 0.7128000259399414 seconds
+2020-05-03 14:53:36,347 - Pade - INFO - test->loss 0.3110196157242818, in epoch 26, in step 399, in global step 13400,                     acc is 0.9140625, taks 0.01659989356994629 seconds
+2020-05-03 14:53:37,139 - Pade - INFO - loss 0.3481359539271113, in epoch 26, in step 499, in global step 0.90234375, acc is 0.90234375,                    taks 0.7923998832702637 seconds
+2020-05-03 14:53:37,140 - Pade - INFO - train epoch 27 of total 5000 epoches
+2020-05-03 14:53:37,955 - Pade - INFO - loss 0.4153021330145416, in epoch 27, in step 99, in global step 0.87109375, acc is 0.87109375,                    taks 0.8154003620147705 seconds
+2020-05-03 14:53:38,741 - Pade - INFO - loss 0.3117704012541506, in epoch 27, in step 199, in global step 0.90625, acc is 0.90625,                    taks 0.7859997749328613 seconds
+2020-05-03 14:53:38,752 - Pade - INFO - test->loss 0.31057255046362753, in epoch 27, in step 199, in global step 13700,                     acc is 0.9140625, taks 0.010000228881835938 seconds
+2020-05-03 14:53:39,463 - Pade - INFO - loss 0.2884238666443525, in epoch 27, in step 299, in global step 0.9140625, acc is 0.9140625,                    taks 0.7115998268127441 seconds
+2020-05-03 14:53:40,261 - Pade - INFO - loss 0.33492891353857945, in epoch 27, in step 399, in global step 0.896484375, acc is 0.896484375,                    taks 0.7982001304626465 seconds
+2020-05-03 14:53:40,272 - Pade - INFO - test->loss 0.308676761469849, in epoch 27, in step 399, in global step 13900,                     acc is 0.91796875, taks 0.009999990463256836 seconds
+2020-05-03 14:53:41,046 - Pade - INFO - loss 0.27748312501028227, in epoch 27, in step 499, in global step 0.916015625, acc is 0.916015625,                    taks 0.7737998962402344 seconds
+2020-05-03 14:53:41,046 - Pade - INFO - train epoch 28 of total 5000 epoches
+2020-05-03 14:53:41,857 - Pade - INFO - loss 0.2901831827092706, in epoch 28, in step 99, in global step 0.919921875, acc is 0.919921875,                    taks 0.8094000816345215 seconds
+2020-05-03 14:53:42,642 - Pade - INFO - loss 0.2633825291600583, in epoch 28, in step 199, in global step 0.927734375, acc is 0.927734375,                    taks 0.7854001522064209 seconds
+2020-05-03 14:53:42,655 - Pade - INFO - test->loss 0.30717921059155956, in epoch 28, in step 199, in global step 14200,                     acc is 0.91796875, taks 0.012000083923339844 seconds
+2020-05-03 14:53:43,446 - Pade - INFO - loss 0.3102698745187359, in epoch 28, in step 299, in global step 0.904296875, acc is 0.904296875,                    taks 0.7908000946044922 seconds
+2020-05-03 14:53:44,215 - Pade - INFO - loss 0.294026497657785, in epoch 28, in step 399, in global step 0.921875, acc is 0.921875,                    taks 0.7688000202178955 seconds
+2020-05-03 14:53:44,225 - Pade - INFO - test->loss 0.3067129888667717, in epoch 28, in step 399, in global step 14400,                     acc is 0.91796875, taks 0.008999824523925781 seconds
+2020-05-03 14:53:44,906 - Pade - INFO - loss 0.3529786565108025, in epoch 28, in step 499, in global step 0.896484375, acc is 0.896484375,                    taks 0.6809999942779541 seconds
+2020-05-03 14:53:44,906 - Pade - INFO - train epoch 29 of total 5000 epoches
+2020-05-03 14:53:45,651 - Pade - INFO - loss 0.27135921390654516, in epoch 29, in step 99, in global step 0.916015625, acc is 0.916015625,                    taks 0.7452001571655273 seconds
+2020-05-03 14:53:46,419 - Pade - INFO - loss 0.32687505714733134, in epoch 29, in step 199, in global step 0.91015625, acc is 0.91015625,                    taks 0.7685999870300293 seconds
+2020-05-03 14:53:46,428 - Pade - INFO - test->loss 0.303671220213472, in epoch 29, in step 199, in global step 14700,                     acc is 0.91796875, taks 0.009000062942504883 seconds
+2020-05-03 14:53:47,198 - Pade - INFO - loss 0.30477057566932286, in epoch 29, in step 299, in global step 0.90234375, acc is 0.90234375,                    taks 0.7697999477386475 seconds
+2020-05-03 14:53:47,943 - Pade - INFO - loss 0.2685697750057988, in epoch 29, in step 399, in global step 0.921875, acc is 0.921875,                    taks 0.7446000576019287 seconds
+2020-05-03 14:53:47,956 - Pade - INFO - test->loss 0.30176208908726787, in epoch 29, in step 399, in global step 14900,                     acc is 0.919921875, taks 0.012999773025512695 seconds
+2020-05-03 14:53:48,692 - Pade - INFO - loss 0.3203207679562776, in epoch 29, in step 499, in global step 0.908203125, acc is 0.908203125,                    taks 0.7366001605987549 seconds
+2020-05-03 14:53:48,968 - Pade - INFO - Model saved in path: ckpt_Pade in epoch 29. acc is 0.908203125, loss is 0.3203207679562776
+2020-05-03 14:53:48,968 - Pade - INFO - train epoch 30 of total 5000 epoches
+2020-05-03 14:53:49,665 - Pade - INFO - loss 0.3389602518945002, in epoch 30, in step 99, in global step 0.8984375, acc is 0.8984375,                    taks 0.9729998111724854 seconds
+2020-05-03 14:53:50,275 - Pade - INFO - loss 0.28856450601878947, in epoch 30, in step 199, in global step 0.91796875, acc is 0.91796875,                    taks 0.6100001335144043 seconds
+2020-05-03 14:53:50,287 - Pade - INFO - test->loss 0.29987741011266533, in epoch 30, in step 199, in global step 15200,                     acc is 0.919921875, taks 0.01100015640258789 seconds
+2020-05-03 14:53:50,966 - Pade - INFO - loss 0.2770697835501065, in epoch 30, in step 299, in global step 0.921875, acc is 0.921875,                    taks 0.6784000396728516 seconds
+2020-05-03 14:53:51,598 - Pade - INFO - loss 0.2818747780903445, in epoch 30, in step 399, in global step 0.908203125, acc is 0.908203125,                    taks 0.6315999031066895 seconds
+2020-05-03 14:53:51,605 - Pade - INFO - test->loss 0.2992416125145221, in epoch 30, in step 399, in global step 15400,                     acc is 0.923828125, taks 0.006999969482421875 seconds
+2020-05-03 14:53:52,223 - Pade - INFO - loss 0.3186958487844729, in epoch 30, in step 499, in global step 0.90234375, acc is 0.90234375,                    taks 0.6172001361846924 seconds
+2020-05-03 14:53:52,223 - Pade - INFO - train epoch 31 of total 5000 epoches
+2020-05-03 14:53:52,858 - Pade - INFO - loss 0.33865403982307285, in epoch 31, in step 99, in global step 0.90625, acc is 0.90625,                    taks 0.6355998516082764 seconds
+2020-05-03 14:53:53,466 - Pade - INFO - loss 0.32871602388363974, in epoch 31, in step 199, in global step 0.9140625, acc is 0.9140625,                    taks 0.607600212097168 seconds
+2020-05-03 14:53:53,473 - Pade - INFO - test->loss 0.2986399768435482, in epoch 31, in step 199, in global step 15700,                     acc is 0.921875, taks 0.0069997310638427734 seconds
+2020-05-03 14:53:54,064 - Pade - INFO - loss 0.27777386214326294, in epoch 31, in step 299, in global step 0.916015625, acc is 0.916015625,                    taks 0.5908002853393555 seconds
+2020-05-03 14:53:54,540 - Pade - INFO - loss 0.29328849133496093, in epoch 31, in step 399, in global step 0.900390625, acc is 0.900390625,                    taks 0.4753997325897217 seconds
+2020-05-03 14:53:54,547 - Pade - INFO - test->loss 0.2972009966828423, in epoch 31, in step 399, in global step 15900,                     acc is 0.923828125, taks 0.0070002079010009766 seconds
+2020-05-03 14:53:55,104 - Pade - INFO - loss 0.34431290705377277, in epoch 31, in step 499, in global step 0.88671875, acc is 0.88671875,                    taks 0.5572001934051514 seconds
+2020-05-03 14:53:55,104 - Pade - INFO - train epoch 32 of total 5000 epoches
+2020-05-03 14:53:55,665 - Pade - INFO - loss 0.3421665377599118, in epoch 32, in step 99, in global step 0.9140625, acc is 0.9140625,                    taks 0.560999870300293 seconds
+2020-05-03 14:53:56,173 - Pade - INFO - loss 0.2514435281623887, in epoch 32, in step 199, in global step 0.921875, acc is 0.921875,                    taks 0.5079998970031738 seconds
+2020-05-03 14:53:56,179 - Pade - INFO - test->loss 0.2969919084153295, in epoch 32, in step 199, in global step 16200,                     acc is 0.919921875, taks 0.006000041961669922 seconds
+2020-05-03 14:53:56,663 - Pade - INFO - loss 0.23201405861850932, in epoch 32, in step 299, in global step 0.939453125, acc is 0.939453125,                    taks 0.4836001396179199 seconds
+2020-05-03 14:53:57,149 - Pade - INFO - loss 0.3259264112376186, in epoch 32, in step 399, in global step 0.90234375, acc is 0.90234375,                    taks 0.48599982261657715 seconds
+2020-05-03 14:53:57,154 - Pade - INFO - test->loss 0.29481959495811455, in epoch 32, in step 399, in global step 16400,                     acc is 0.923828125, taks 0.005000114440917969 seconds
+2020-05-03 14:53:57,555 - Pade - INFO - loss 0.3060010975320663, in epoch 32, in step 499, in global step 0.90625, acc is 0.90625,                    taks 0.4010000228881836 seconds
+2020-05-03 14:53:57,556 - Pade - INFO - train epoch 33 of total 5000 epoches
+2020-05-03 14:53:57,929 - Pade - INFO - loss 0.27978103110990443, in epoch 33, in step 99, in global step 0.927734375, acc is 0.927734375,                    taks 0.37399983406066895 seconds
+2020-05-03 14:53:59,756 - Pade - INFO - loss 0.23719685247991174, in epoch 33, in step 199, in global step 0.923828125, acc is 0.923828125,                    taks 1.3370001316070557 seconds
+2020-05-03 14:53:59,770 - Pade - INFO - test->loss 0.29310551660122064, in epoch 33, in step 199, in global step 16700,                     acc is 0.91796875, taks 0.013000011444091797 seconds
+2020-05-03 14:54:00,958 - Pade - INFO - loss 0.24504250206575845, in epoch 33, in step 299, in global step 0.94140625, acc is 0.94140625,                    taks 1.187999963760376 seconds
+2020-05-03 14:54:02,139 - Pade - INFO - loss 0.31552978323377834, in epoch 33, in step 399, in global step 0.9140625, acc is 0.9140625,                    taks 1.179800033569336 seconds
+2020-05-03 14:54:02,156 - Pade - INFO - test->loss 0.2929776113553909, in epoch 33, in step 399, in global step 16900,                     acc is 0.919921875, taks 0.01699995994567871 seconds
+2020-05-03 14:54:03,344 - Pade - INFO - loss 0.2314663008571412, in epoch 33, in step 499, in global step 0.931640625, acc is 0.931640625,                    taks 1.188199758529663 seconds
+2020-05-03 14:54:03,344 - Pade - INFO - train epoch 34 of total 5000 epoches
+2020-05-03 14:54:04,545 - Pade - INFO - loss 0.2926988688691834, in epoch 34, in step 99, in global step 0.921875, acc is 0.921875,                    taks 1.2016000747680664 seconds
+2020-05-03 14:54:05,779 - Pade - INFO - loss 0.2943276869167558, in epoch 34, in step 199, in global step 0.9140625, acc is 0.9140625,                    taks 1.2318000793457031 seconds
+2020-05-03 14:54:05,795 - Pade - INFO - test->loss 0.2909552340808841, in epoch 34, in step 199, in global step 17200,                     acc is 0.921875, taks 0.016000032424926758 seconds
+2020-05-03 14:54:06,831 - Pade - INFO - loss 0.31270933155539343, in epoch 34, in step 299, in global step 0.9140625, acc is 0.9140625,                    taks 1.034600019454956 seconds
+2020-05-03 14:54:07,900 - Pade - INFO - loss 0.3317708298387022, in epoch 34, in step 399, in global step 0.908203125, acc is 0.908203125,                    taks 1.0694000720977783 seconds
+2020-05-03 14:54:07,914 - Pade - INFO - test->loss 0.29050384556256004, in epoch 34, in step 399, in global step 17400,                     acc is 0.921875, taks 0.013999700546264648 seconds
+2020-05-03 14:54:08,993 - Pade - INFO - loss 0.3725553941376949, in epoch 34, in step 499, in global step 0.90234375, acc is 0.90234375,                    taks 1.0784001350402832 seconds
+2020-05-03 14:54:08,994 - Pade - INFO - train epoch 35 of total 5000 epoches
+2020-05-03 14:54:10,085 - Pade - INFO - loss 0.261549179952502, in epoch 35, in step 99, in global step 0.908203125, acc is 0.908203125,                    taks 1.0911998748779297 seconds
+2020-05-03 14:54:11,203 - Pade - INFO - loss 0.2666842541964186, in epoch 35, in step 199, in global step 0.91015625, acc is 0.91015625,                    taks 1.1173999309539795 seconds
+2020-05-03 14:54:11,215 - Pade - INFO - test->loss 0.2912784217880594, in epoch 35, in step 199, in global step 17700,                     acc is 0.919921875, taks 0.012000083923339844 seconds
+2020-05-03 14:54:12,295 - Pade - INFO - loss 0.2512781825150514, in epoch 35, in step 299, in global step 0.916015625, acc is 0.916015625,                    taks 1.0796000957489014 seconds
+2020-05-03 14:54:13,290 - Pade - INFO - loss 0.27783043954036757, in epoch 35, in step 399, in global step 0.90625, acc is 0.90625,                    taks 0.9944000244140625 seconds
+2020-05-03 14:54:13,302 - Pade - INFO - test->loss 0.2895573717782986, in epoch 35, in step 399, in global step 17900,                     acc is 0.921875, taks 0.011999845504760742 seconds
